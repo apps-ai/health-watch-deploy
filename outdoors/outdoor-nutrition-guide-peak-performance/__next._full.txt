@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/2ak-ol5_up2gd.css","style"]
+:HL["/_next/static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","outdoors","outdoor-nutrition-guide-peak-performance"],"q":"","i":false,"f":[[["",{"children":[["pillar","outdoors","d",null],{"children":[["slug","outdoor-nutrition-guide-peak-performance","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ak-ol5_up2gd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0orpbtut_8u9w.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0jbyd6i7518-9.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ak-ol5_up2gd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JP9INJ3V-YFDN-Ge4B1yb"}
+f:[]
+9:"$Wf"
+10:I[3374,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js"],"Header"]
+11:I[58234,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js"],"Footer"]
+12:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"default"]
+4:[["$","$L10",null,{}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]
+5:["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","a",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","a",null,{"href":"/outdoors","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"outdoors"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Optimal Outdoor Nutrition: Fueling Peak Performance for Hiking and Adventure"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E0EBE6","color":"#2C5E4A","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Outdoors"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#FEF3D0","color":"#96680D","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Intermediate"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Optimal Outdoor Nutrition: Fueling Peak Performance for Hiking and Adventure"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Learn how to fuel your body for peak outdoor performance. This guide covers pre-activity fueling, essential on-the-go snacks, and critical post-adventure recovery strategies."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":["$","a",null,{"href":"https://linkedin.com/in/maya-santos-placeholder","target":"_blank","rel":"noopener noreferrer","style":{"color":"inherit","textDecoration":"underline","textUnderlineOffset":2},"children":"maya-santos"}]}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/sam-okonkwo","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"sam-okonkwo"}],", PhD, RD"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}],"October 26, 2024"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L12",null,{"ref":"$undefined","iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],7," ","min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":"$L13"}]}],"$L14"]}]
+15:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"Image"]
+13:["$","$L15",null,{"src":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/outdoor_nutrition_guide_peak_performance_cover.png","alt":"Hikers celebrating success on a mountain trail at dawn.","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true}]
+16:T268f,<p>Whether you are tackling a multi-day trek, cycling through scenic valleys, or enjoying a vigorous trail run, <strong>optimal outdoor nutrition</strong> is the single most critical factor in maximizing both performance and enjoyment. To fuel your body effectively, focus on three phases: consuming complex carbohydrates 2-3 hours before activity for sustained energy; packing easily digestible, carb-rich snacks during the trek to maintain blood sugar; and prioritizing a mix of protein and carbs within an hour after finishing to kickstart muscle repair.</p>
+<h2>Why is Nutrition So Important When Exploring Outdoors?</h2>
+<p>Think of your body as a high-performance machine—it requires specific fuel types to operate efficiently under stress. During intense outdoor activities, you are not just burning calories; you are depleting <strong>glycogen stores</strong> (stored carbohydrates) and losing vital <strong>electrolytes</strong> through sweat. Proper fueling prevents the dreaded "bonk" (sudden energy crash), reduces muscle fatigue, and ensures your focus remains sharp for safety and enjoyment.</p>
+<h3>What Happens When You Under-Fuel?</h3>
+<ul>
+<li><strong>Energy Crash:</strong> Low blood sugar leads to weakness, dizziness, and poor decision-making.</li>
+<li><strong>Dehydration &#x26; Electrolyte Imbalance:</strong> Cramping, headaches, and reduced physical capacity.</li>
+<li><strong>Muscle Damage:</strong> Insufficient protein intake hinders the body's ability to repair micro-tears in muscle tissue.</li>
+</ul>
+<h2>What Should I Eat Before an Outdoor Adventure? (Pre-Activity Fueling)</h2>
+<p>The goal of pre-activity nutrition is simple: provide a steady, reliable source of energy without causing digestive distress. You need fuel that releases slowly and requires minimal effort for your gut to process.</p>
+<h3>🍽️ The Ideal Pre-Workout Meal Composition</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Macronutrient</th><th align="left">Role</th><th align="left">Focus</th><th align="left">Why?</th></tr></thead><tbody><tr><td align="left"><strong>Carbohydrates</strong> (Primary)</td><td align="left">Main energy source (glycogen).</td><td align="left">Complex carbs (oats, whole grains, sweet potatoes).</td><td align="left">Provides sustained release of glucose, preventing crashes.</td></tr><tr><td align="left"><strong>Protein</strong> (Moderate)</td><td align="left">Muscle support and satiety.</td><td align="left">Lean sources (egg whites, yogurt, nuts).</td><td align="left">Helps preserve muscle mass without being too heavy to digest.</td></tr><tr><td align="left"><strong>Fat</strong> (Low)</td><td align="left">Slow energy source.</td><td align="left">Minimal amounts (avocado, small amount of nut butter).</td><td align="left">Fat takes hours to digest; keep it low pre-activity to prevent stomach upset.</td></tr></tbody></table>
+<h3>⏰ Timing Matters: When Should I Eat?</h3>
+<ul>
+<li><strong>2–3 Hours Before:</strong> Consume a larger, balanced meal (e.g., oatmeal with berries and nuts, or whole-wheat toast with avocado). This allows time for digestion.</li>
+<li><strong>30–60 Minutes Before:</strong> Opt for a small, easily digestible snack (e.g., banana, energy bar, or handful of dried fruit).</li>
+</ul>
+<h3>💡 Top Pre-Adventure Fuel Options</h3>
+<ul>
+<li><strong>Oatmeal with Berries and Nuts:</strong> Excellent complex carb base with antioxidants. <em>Timing: 2 hours.</em></li>
+<li><strong>Whole-Wheat Toast &#x26; Avocado:</strong> Balanced mix of carbs and healthy fats/protein. <em>Timing: 2 hours.</em></li>
+<li><strong>Banana &#x26; Peanut Butter:</strong> Quick, portable source of potassium (an electrolyte) and energy. <em>Timing: 30–60 minutes.</em></li>
+<li><strong>Smoothie:</strong> Customizable blend of fruit (carbs), yogurt (protein), and spinach (vitamins). <em>Timing: 30–60 minutes.</em></li>
+</ul>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/outdoor_nutrition_guide_peak_performance_pre_fueling.png" alt="Pre-Activity Fueling Timing and Ideal Snacks"></p>
+<h2>How Do I Maintain Energy During Long Treks? (On-the-Go Snacks)</h2>
+<p>For any activity lasting longer than an hour, your body's glycogen stores will deplete. On-the-go snacks are essential to keep blood sugar stable and maintain peak physical output. These snacks must be <strong>high in carbohydrates</strong>, <strong>easy to digest</strong>, and <strong>non-perishable</strong>.</p>
+<h3>🎒 Best Snacks for Sustained Energy</h3>
+<ul>
+<li><strong>Trail Mix:</strong> Combine nuts, seeds, dried fruit (raisins, cranberries), and a small amount of dark chocolate. This offers a mix of quick carbs and sustained energy from fats/proteins.</li>
+<li><strong>Energy Chews or Gels:</strong> Ideal for rapid, concentrated carbohydrate boosts during high-intensity bursts. <em>Always consume with water.</em></li>
+<li><strong>Dried Fruit:</strong> Excellent source of natural sugars and electrolytes (e.g., mango, apricots). Choose unsweetened varieties.</li>
+<li><strong>Jerky/Nut Butter Packets:</strong> Provides a quick hit of protein and sodium to replace lost electrolytes.</li>
+</ul>
+<h3>💧 The Critical Role of Hydration</h3>
+<p>Hydration is not optional; it's foundational. Aim to drink regularly—not just when you feel thirsty.</p>
+<ul>
+<li><strong>Water:</strong> Primary source. Carry at least 1 liter per person for a half-day trip.</li>
+<li><strong>Electrolyte Drinks/Tablets:</strong> Crucial for replacing sodium and potassium lost through sweat, preventing cramps.</li>
+<li><strong>Coconut Water:</strong> A natural alternative that provides electrolytes and is generally easy on the stomach.</li>
+</ul>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/outdoor_nutrition_guide_peak_performance_snacks.png" alt="Trail Snacks Packed in a Backpack Pocket"></p>
+<h2>What Should I Eat After My Adventure? (Post-Activity Recovery)</h2>
+<p>The 30–60 minutes immediately following intense exercise is the most critical window for recovery. The goal is to stop muscle breakdown and initiate repair by replenishing glycogen and providing amino acids. This requires a combination of <strong>carbohydrates</strong> and <strong>protein</strong>.</p>
+<h3>💪 The Perfect Recovery Ratio</h3>
+<p>Aim for a 3:1 or 4:1 ratio of carbohydrates to protein (e.g., 30g carbs + 10g protein).</p>
+<ul>
+<li><strong>Carbs:</strong> Replenish depleted glycogen stores quickly.</li>
+<li><strong>Protein:</strong> Provides the amino acids necessary to repair damaged muscle fibers.</li>
+<li><strong>Fluids/Electrolytes:</strong> Restore fluid balance and mineral levels.</li>
+</ul>
+<h3>🍎 Quick Recovery Meal Ideas</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Option</th><th align="left">Composition</th><th align="left">Timing Goal</th><th align="left">Why it Works</th></tr></thead><tbody><tr><td align="left"><strong>Chocolate Milk</strong></td><td align="left">Carbs, Protein, Electrolytes.</td><td align="left">Within 30–60 minutes.</td><td align="left">A classic, highly effective recovery drink that hits all three targets.</td></tr><tr><td align="left"><strong>Greek Yogurt &#x26; Fruit</strong></td><td align="left">High protein (yogurt), carbs (fruit).</td><td align="left">Within 30–60 minutes.</td><td align="left">Excellent balance of slow-digesting protein and natural sugars.</td></tr><tr><td align="left"><strong>Chicken/Fish with Rice</strong></td><td align="left">Lean protein, complex carbs.</td><td align="left">Within 1–2 hours.</td><td align="left">A complete meal for sustained recovery after a long day.</td></tr><tr><td align="left"><strong>Protein Shake:</strong></td><td align="left">Customizable source of amino acids and quick carbs.</td><td align="left">Within 30–60 minutes.</td><td align="left">Convenient and highly digestible when immediate fueling is needed.</td></tr></tbody></table>
+<h2>How Do I Plan My Gear and Meals Sustainably?</h2>
+<p>Planning your food logistics reduces waste, saves money, and minimizes environmental impact—a key part of responsible outdoor exploration.</p>
+<h3>♻️ Sustainable Packing Practices</h3>
+<ul>
+<li><strong>Reusable Containers:</strong> Use durable, lightweight containers for meals (e.g., stainless steel lunch boxes). Avoid single-use plastic bags where possible.</li>
+<li><strong>Bulk Buying &#x26; Repackaging:</strong> Buy nuts and dried fruits in bulk and repack them into reusable cloth or silicone snack bags.</li>
+<li><strong>Leave No Trace:</strong> Always pack out all trash, including food scraps and wrappers.</li>
+</ul>
+<h3>🗺️ Tailoring Nutrition to the Activity</h3>
+<p>Your fuel needs change based on what you are doing:</p>
+<ul>
+<li><strong>Endurance (Long Distance Cycling/Hiking):</strong> Focus heavily on <strong>carbohydrates</strong> (gels, bananas, oats).</li>
+<li><strong>Strength (Climbing/Heavy Pack Hauling):</strong> Increase <strong>protein</strong> intake alongside carbs to support muscle repair.</li>
+</ul>
+<h2>Summary &#x26; Next Steps for Peak Performance</h2>
+<p>Fueling your outdoor adventures is a systematic process that requires attention before, during, and after the activity. By prioritizing complex carbohydrates pre-trip, packing easily digestible snacks mid-trek, and consuming a carb/protein mix post-activity, you can significantly boost your endurance and enjoyment. Always listen to your body's signals—if you feel weak or dizzy, stop immediately and consume simple sugars or electrolytes.</p>
+<hr>
+<h3>Disclaimer</h3>
+<p><em>This article provides general nutritional guidance for active individuals and is not a substitute for professional medical advice. Consult with a registered dietitian or physician before making significant changes to your diet.</em></p>
+<hr>14:["$","article",null,{"style":{"maxWidth":720,"margin":"0 auto","padding":"48px 24px 80px"},"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17","$L18","$L19"]}]
+17:["$","section",null,{"style":{"marginTop":56,"padding":32,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":24},"children":"Frequently Asked Questions"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":20},"children":[["$","div","0",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"What is the best macro ratio for long-distance hiking?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"For sustained endurance efforts, aim for a high carbohydrate intake (60-70% of total calories), moderate protein (10-15%), and healthy fats (20-25%)."}]]}],["$","div","1",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"How far in advance should I eat before an activity?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"Eat a larger meal 2-3 hours prior, and consume a smaller snack 30-60 minutes before starting to ensure optimal digestion."}]]}]]}]]}]
+18:["$","section",null,{"style":{"marginTop":40},"children":[["$","h3",null,{"style":{"fontSize":"0.875rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":8},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://www.acsm.org/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"American College of Sports Medicine (ACSM)"}]}],["$","li","1",{"children":["$","a",null,{"href":"https://www.eatright.org/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"Academy of Nutrition and Dietetics"}]}]]}]]}]
+19:["$","div",null,{"style":{"marginTop":48,"padding":16,"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0"},"children":["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6},"children":[["$","strong",null,{"children":"Medical Disclaimer:"}]," The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Optimal Outdoor Nutrition: Fueling Peak Performance for Hiking and Adventure"}],["$","meta","1",{"name":"description","content":"Learn how to fuel your body for peak outdoor performance. This guide covers pre-activity fueling, essential on-the-go snacks, and critical post-adventure recovery strategies."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://healthwatch.com/outdoors/outdoor-nutrition-guide-peak-performance"}],["$","meta","4",{"property":"og:title","content":"Optimal Outdoor Nutrition: Fueling Peak Performance for Hiking and Adventure"}],["$","meta","5",{"property":"og:description","content":"Learn how to fuel your body for peak outdoor performance. This guide covers pre-activity fueling, essential on-the-go snacks, and critical post-adventure recovery strategies."}],["$","meta","6",{"property":"og:image","content":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/outdoor_nutrition_guide_peak_performance_og.png"}],["$","meta","7",{"property":"og:image:alt","content":"Hikers celebrating success on a mountain trail at dawn."}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2024-10-27T00:00:00.000Z"}],["$","meta","10",{"property":"article:modified_time","content":"2026-06-18T00:00:00.000Z"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Optimal Outdoor Nutrition: Fueling Peak Performance for Hiking and Adventure"}],["$","meta","13",{"name":"twitter:description","content":"Learn how to fuel your body for peak outdoor performance. This guide covers pre-activity fueling, essential on-the-go snacks, and critical post-adventure recovery strategies."}],["$","meta","14",{"name":"twitter:image","content":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/outdoor_nutrition_guide_peak_performance_twitter.png"}],["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1a","16",{}]]

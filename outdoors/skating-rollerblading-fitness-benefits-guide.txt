@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/2ak-ol5_up2gd.css","style"]
+:HL["/_next/static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","outdoors","skating-rollerblading-fitness-benefits-guide"],"q":"","i":false,"f":[[["",{"children":[["pillar","outdoors","d",null],{"children":[["slug","skating-rollerblading-fitness-benefits-guide","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ak-ol5_up2gd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0orpbtut_8u9w.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0jbyd6i7518-9.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ak-ol5_up2gd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JP9INJ3V-YFDN-Ge4B1yb"}
+f:[]
+9:"$Wf"
+10:I[3374,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js"],"Header"]
+11:I[58234,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js"],"Footer"]
+12:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"default"]
+4:[["$","$L10",null,{}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]
+5:["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","a",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","a",null,{"href":"/outdoors","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"outdoors"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Skating & Rollerblading Fitness Guide: Boost Cardio Outdoors"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E0EBE6","color":"#2C5E4A","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Outdoors"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E4ECE0","color":"#4A6344","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Beginner"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Skating & Rollerblading Fitness Guide: Boost Cardio Outdoors"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Discover how outdoor skating and rollerblading provide a low-impact, full-body workout that dramatically improves cardiovascular health, balance, and coordination."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":["$","a",null,{"href":"https://linkedin.com/in/maya-santos-placeholder","target":"_blank","rel":"noopener noreferrer","style":{"color":"inherit","textDecoration":"underline","textUnderlineOffset":2},"children":"maya-santos"}]}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/sam-okonkwo","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"sam-okonkwo"}],", MD, CSCS"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}],"October 26, 2024"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L12",null,{"ref":"$undefined","iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],6," ","min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":"$L13"}]}],"$L14"]}]
+15:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"Image"]
+13:["$","$L15",null,{"src":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/skating_rollerblading_fitness_benefits_guide_cover.png","alt":"People enjoying outdoor skating and rollerblading on a paved trail.","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true}]
+16:T291d,<h2>What Are the Core Fitness Benefits of Skating and Rollerblading?</h2>
+<p>Skating and rollerblading offer an exhilarating, low-impact full-body workout that dramatically enhances cardiovascular health, balance, and coordination while providing a fun way to explore nature. These activities engage major muscle groups—from your quads and glutes to your core—making them highly effective for improving endurance and overall physical wellness at any age or fitness level.</p>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/skating_rollerblading_fitness_benefits_guide_muscles.png" alt="Anatomical diagram showing the key muscle groups used during skating: quadriceps, hamstrings, calves, and core"></p>
+<h2>Why is Skating an Excellent Low-Impact Workout?</h2>
+<p>Many people associate high-intensity exercise with joint pain, but skating provides a powerful alternative. Because the motion is gliding and pushing rather than repetitive impact like running, it places less stress on your knees and ankles while still providing intense cardiovascular benefits.</p>
+<h3>How Does Skating Improve Your Body?</h3>
+<ul>
+<li><strong>Cardiovascular Endurance:</strong> The continuous effort required to glide and push elevates your heart rate, strengthening your heart muscle and improving blood circulation.</li>
+<li><strong>Strength Building:</strong> It works major lower body muscles (quadriceps, hamstrings, glutes) while simultaneously demanding core engagement for stability.</li>
+<li><strong>Balance and Proprioception:</strong> Maintaining balance on wheels requires constant micro-adjustments from your stabilizing muscles, significantly boosting <strong>proprioception</strong>—your body's awareness of its position in space.</li>
+<li><strong>Weight Management:</strong> Skating burns a significant number of calories, helping you maintain or achieve a healthy weight when combined with proper nutrition.</li>
+</ul>
+<h2>Getting Started: Choosing the Right Gear and Skates</h2>
+<p>Before hitting the path, safety and equipment are paramount. Investing in quality gear ensures comfort, performance, and most importantly, protection.</p>
+<h3>Quad vs. Inline: Which Skates Are Best for You?</h3>
+<p>The choice between quad skates (traditional rollerblades) and inline skates depends on your goals and experience level.</p>
+<ul>
+<li>
+<p><strong>Quad Skates:</strong></p>
+<ul>
+<li><strong>Best For:</strong> Beginners, artistic skating, or those who prefer a classic feel.</li>
+<li><strong>Pros:</strong> Generally offer more stability and are highly maneuverable for rink environments.</li>
+<li><strong>Cons:</strong> Can be less efficient for long-distance outdoor speed.</li>
+</ul>
+</li>
+<li>
+<p><strong>Inline Skates (Rollerblades):</strong></p>
+<ul>
+<li><strong>Best For:</strong> Fitness, speed, and covering long distances outdoors.</li>
+<li><strong>Pros:</strong> Offer a streamlined design that maximizes efficiency and speed on paved surfaces.</li>
+<li><strong>Cons:</strong> Can have a steeper initial learning curve due to the single line of wheels.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p><strong>Pro Tip:</strong> Regardless of your choice, ensure the skates fit snugly but allow for natural toe wiggle room. Proper fit is crucial for preventing blisters and maximizing comfort.</p>
+</blockquote>
+<h3>Essential Safety Gear Checklist (Non-Negotiable)</h3>
+<p>Safety gear should never be optional. Always wear a complete set of protective equipment:</p>
+<ul>
+<li><strong>Helmet:</strong> The single most important piece of safety gear. Ensure it meets current CPSC standards.</li>
+<li><strong>Wrist Guards:</strong> Protect against common fall injuries to the wrists.</li>
+<li><strong>Elbow Pads &#x26; Knee Pads:</strong> Guard vulnerable joints from scrapes and impact during falls.</li>
+</ul>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/skating_rollerblading_fitness_benefits_guide_safety_gear.png" alt="Flat lay displaying protective gear: helmet, knee pads, elbow pads, and wrist guards beside a pair of inline skates"></p>
+<h2>Where Should You Skate? Choosing Safe Surfaces</h2>
+<p>The surface you choose can make or break your experience and safety. Always prioritize smooth, predictable surfaces.</p>
+<h3>Ideal Skating Locations:</h3>
+<ul>
+<li><strong>Dedicated Bike Paths:</strong> These are typically paved, wide, and designed for movement, making them ideal.</li>
+<li><strong>Smooth Paved Trails:</strong> Parks with well-maintained concrete or asphalt paths are excellent choices.</li>
+<li><strong>Skating Rinks:</strong> Offer a controlled environment perfect for beginners learning techniques.</li>
+</ul>
+<h3>Surfaces to Avoid:</h3>
+<ul>
+<li><strong>Uneven Pavement:</strong> Cracked sidewalks, potholes, and abrupt changes in elevation pose high fall risks.</li>
+<li><strong>Gravel or Dirt Paths:</strong> These materials can get into your bearings, affecting performance and stability.</li>
+<li><strong>High Traffic Areas:</strong> Always choose locations away from cars, bikes, or crowds to minimize collision risk.</li>
+</ul>
+<h2>Mastering the Fundamentals: Techniques for Beginners</h2>
+<p>Starting out requires patience, but mastering basic techniques builds confidence quickly. Focus on these fundamentals before attempting advanced moves.</p>
+<h3>1. The Starting Stance</h3>
+<ul>
+<li><strong>Positioning:</strong> Stand with your feet shoulder-width apart.</li>
+<li><strong>Knees:</strong> Keep your knees slightly bent (never locked). This lowers your center of gravity and improves shock absorption.</li>
+<li><strong>Core:</strong> Engage your core muscles to maintain an upright, stable posture.</li>
+</ul>
+<h3>2. Pushing Off and Gliding</h3>
+<ul>
+<li><strong>Pushing:</strong> Push off with one foot at a controlled <strong>45-degree angle</strong>. The push should come from the hip and leg, not just the ankle.</li>
+<li><strong>Gliding:</strong> After pushing, glide smoothly on the supporting leg, keeping your weight centered over the wheels.</li>
+</ul>
+<h3>3. Stopping Techniques (Crucial for Safety)</h3>
+<p>Knowing how to stop is as important as knowing how to go.</p>
+<ul>
+<li><strong>Heel Brake (Inline):</strong> Extend one leg forward and press down firmly with the heel brake mechanism.</li>
+<li><strong>Toe Stop (Quad):</strong> Extend one leg forward and apply pressure to the toe stop.</li>
+<li><strong>T-Stop:</strong> Dragging one skate behind you at a 90-degree angle is an effective, controlled way to slow down or halt movement.</li>
+</ul>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/skating_rollerblading_fitness_benefits_guide_techniques.png" alt="Technique diagram demonstrating how to push off and how to perform a T-stop while inline skating"></p>
+<h2>Maximizing Your Outdoor Skating Experience</h2>
+<p>To keep your routine fun and sustainable, incorporate these tips into your weekly sessions.</p>
+<ul>
+<li><strong>Set Goals:</strong> Instead of just "skating," set goals like "Skate 5 miles without stopping" or "Master the heel brake."</li>
+<li><strong>Vary Your Routes:</strong> Explore different parks and paths to prevent boredom and discover new scenery.</li>
+<li><strong>Hydration &#x26; Fueling:</strong> Always bring water, especially on hot days. Snack lightly before a long session.</li>
+<li><strong>Warm-Up/Cool-Down:</strong> Never skip stretching! Spend 5 minutes warming up with dynamic stretches (leg swings) and 5 minutes cooling down with static holds.</li>
+</ul>
+<h2>The Science Behind the Glide: Deep Dive into Health Benefits</h2>
+<p>Skating provides comprehensive fitness benefits that go far beyond just leg strength.</p>
+<h3>Cardiovascular &#x26; Metabolic Boost</h3>
+<ul>
+<li><strong>Heart Health:</strong> Regular skating strengthens the heart muscle, improving blood circulation and helping to manage blood pressure.</li>
+<li><strong>Cholesterol Management:</strong> Consistent aerobic exercise helps raise levels of <strong>HDL (good) cholesterol</strong> and lower harmful LDL cholesterol.</li>
+<li><strong>Calorie Burn:</strong> It is an effective calorie-burning activity that contributes significantly to weight management and maintaining a healthy metabolism.</li>
+</ul>
+<h3>Musculoskeletal System Benefits</h3>
+<ul>
+<li><strong>Core Stability:</strong> The constant need for balance engages deep core muscles, improving overall posture and stability.</li>
+<li><strong>Joint Lubrication:</strong> The smooth gliding motion helps lubricate the joints (knees, ankles), which can be beneficial for joint health over time.</li>
+<li><strong>Muscle Tone:</strong> It provides an excellent workout for the glutes, hamstrings, and calves while building functional strength.</li>
+</ul>
+<h3>Mental &#x26; Emotional Wellness</h3>
+<ul>
+<li><strong>Stress Reduction:</strong> The combination of physical exertion and being in nature (the "green effect") is scientifically proven to lower cortisol levels and reduce anxiety.</li>
+<li><strong>Mood Enhancement:</strong> Achieving fitness goals and enjoying the outdoors boosts endorphin release, leading to improved mood and self-esteem.</li>
+</ul>
+<h2>Adapting Your Skate Routine Year-Round</h2>
+<p>While summer is ideal, skating can be enjoyed in all seasons with proper adjustments.</p>
+<ul>
+<li><strong>Spring/Autumn:</strong> These are prime times due to mild temperatures. Be mindful of wet leaves or debris that could create slip hazards.</li>
+<li><strong>Winter (Cold Weather):</strong> If outdoor conditions are too cold, opt for an indoor facility. Dress in layers and wear moisture-wicking base layers.</li>
+<li><strong>Rainy Days:</strong> Wear waterproof gear and choose paved paths over dirt trails to maintain traction and safety.</li>
+</ul>
+<h2>Summary &#x26; Next Steps</h2>
+<p>Skating is a dynamic, enjoyable, and highly effective way to improve your physical health without the high impact of running. By prioritizing proper equipment, mastering basic techniques, and choosing safe routes, you can make it a sustainable fitness habit that keeps you moving and enjoying the great outdoors for years to come. Lace up, stay safe, and enjoy the glide!</p>
+<hr>
+<p><strong>Sources &#x26; Further Reading:</strong></p>
+<ul>
+<li>American Heart Association (AHA): <a href="https://www.heart.org/">https://www.heart.org/</a></li>
+<li>U.S. Consumer Product Safety Commission (CPSC) for Gear Standards: <a href="https://www.cpsc.gov/">https://www.cpsc.gov/</a></li>
+</ul>
+<hr>14:["$","article",null,{"style":{"maxWidth":720,"margin":"0 auto","padding":"48px 24px 80px"},"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17","$L18","$L19"]}]
+17:["$","section",null,{"style":{"marginTop":56,"padding":32,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":24},"children":"Frequently Asked Questions"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":20},"children":[["$","div","0",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"Is skating good for my knees?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"Yes, because it is generally low-impact compared to running. However, proper form and gradual progression are key."}]]}]]}]]}]
+18:["$","section",null,{"style":{"marginTop":40},"children":[["$","h3",null,{"style":{"fontSize":"0.875rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":8},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://www.heart.org/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"American Heart Association (AHA)"}]}]]}]]}]
+19:["$","div",null,{"style":{"marginTop":48,"padding":16,"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0"},"children":["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6},"children":[["$","strong",null,{"children":"Medical Disclaimer:"}]," The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Skating & Rollerblading Fitness Guide: Boost Cardio Outdoors"}],["$","meta","1",{"name":"description","content":"Discover how outdoor skating and rollerblading provide a low-impact, full-body workout that dramatically improves cardiovascular health, balance, and coordination."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://healthwatch.com/outdoors/skating-rollerblading-fitness-benefits-guide"}],["$","meta","4",{"property":"og:title","content":"Skating & Rollerblading Fitness Guide: Boost Cardio Outdoors"}],["$","meta","5",{"property":"og:description","content":"Discover how outdoor skating and rollerblading provide a low-impact, full-body workout that dramatically improves cardiovascular health, balance, and coordination."}],["$","meta","6",{"property":"og:image","content":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/skating_rollerblading_fitness_benefits_guide_og.png"}],["$","meta","7",{"property":"og:image:alt","content":"People enjoying outdoor skating and rollerblading on a paved trail."}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2024-10-27T00:00:00.000Z"}],["$","meta","10",{"property":"article:modified_time","content":"2026-06-18T00:00:00.000Z"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Skating & Rollerblading Fitness Guide: Boost Cardio Outdoors"}],["$","meta","13",{"name":"twitter:description","content":"Discover how outdoor skating and rollerblading provide a low-impact, full-body workout that dramatically improves cardiovascular health, balance, and coordination."}],["$","meta","14",{"name":"twitter:image","content":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/skating_rollerblading_fitness_benefits_guide_twitter.png"}],["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1a","16",{}]]

@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"default"]
+7:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"Image"]
+c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","a",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","a",null,{"href":"/vitamins","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"vitamins"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Vitamin B5 (Pantothenic Acid): Essential Guide to Energy & Metabolism"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#FDF4E5","color":"#D69C2F","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Vitamins"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E4ECE0","color":"#4A6344","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Beginner"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Vitamin B5 (Pantothenic Acid): Essential Guide to Energy & Metabolism"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Discover the vital role of Vitamin B5 (Pantothenic Acid) in energy production, hormone balance, and overall metabolic health. Learn natural sources and signs of deficiency."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L2",null,{"iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":["$","a",null,{"href":"https://linkedin.com/in/alex-chen-placeholder","target":"_blank","rel":"noopener noreferrer","style":{"color":"inherit","textDecoration":"underline","textUnderlineOffset":2},"children":"alex-chen"}]}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/jordan-ellis","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"jordan-ellis"}],", PhD, RD"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L2",null,{"iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}],"July 17, 2024"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L2",null,{"iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],6," ","min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":"$L3"}]}],"$L4"]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JP9INJ3V-YFDN-Ge4B1yb"}
+3:["$","$L7",null,{"src":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/vitamin-b5-pantothenic-acid-energy-metabolism-1.png","alt":"Diverse food sources illustrating the natural origins of Vitamin B5.","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true}]
+8:T1ffd,<h2>What is Vitamin B5 (Pantothenic Acid) and Why Is It Crucial?</h2>
+<p>If you feel constantly fatigued or struggle with energy levels, understanding your <strong>Vitamin B5</strong> intake might be key. Also known as Pantothenic Acid, Vitamin B5 is a water-soluble vitamin that plays an indispensable role in the body's core metabolic processes. Simply put, it acts as a critical helper molecule, enabling your body to efficiently convert the food you eat—whether carbs, fats, or proteins—into usable energy and supporting vital hormone production.</p>
+<h3>How Does Vitamin B5 Work?</h3>
+<p>Vitamin B5 is most famous for its role in forming <strong>Coenzyme A (CoA)</strong>. Think of CoA as a central metabolic hub; it's required for countless chemical reactions that keep your body running smoothly. Without sufficient B5, the entire process slows down, impacting everything from cellular energy production to nerve function.</p>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/vitamin-b5-pantothenic-acid-energy-metabolism-4.png" alt="Vitamin B5 Pantothenic Acid Energy Metabolism"></p>
+<h2>What Are the Key Functions of Vitamin B5?</h2>
+<p>Vitamin B5 is a true metabolic powerhouse, supporting five major bodily systems. Understanding these roles helps clarify why it's so vital for overall wellness.</p>
+<h3>1. Fueling Your Cells: Energy Metabolism</h3>
+<p>This is arguably B5’s most critical function. It is essential for the <strong>metabolism of all three macronutrients</strong>:</p>
+<ul>
+<li><strong>Carbohydrates:</strong> B5 assists in breaking down complex carbs into glucose, providing immediate fuel for your brain and muscles.</li>
+<li><strong>Fats (Lipids):</strong> It helps break down fats into fatty acids, which serve as a long-term, dense energy source.</li>
+<li><strong>Proteins:</strong> B5 aids in the breakdown of proteins into amino acids, which are necessary building blocks for enzymes and tissues.</li>
+</ul>
+<h3>2. Supporting Hormone Balance</h3>
+<p>Vitamin B5 plays a direct role in hormone synthesis, particularly those produced by the adrenal glands. It helps regulate stress responses by supporting the production of hormones like <strong>cortisol</strong>. Furthermore, it is involved in synthesizing sex hormones (estrogen and testosterone), which are crucial for reproductive health.</p>
+<h3>3. Maintaining Oxygen Transport</h3>
+<p>B5 is necessary for the synthesis of <strong>heme</strong>, a key component found within hemoglobin. Hemoglobin's job is to carry oxygen from your lungs throughout your bloodstream. Adequate B5 ensures that this vital oxygen transport system runs efficiently, preventing fatigue and weakness.</p>
+<h3>4. Balancing Cholesterol Levels</h3>
+<p>While cholesterol often receives negative attention, it is essential for building cell membranes and producing hormones. Vitamin B5 helps in the proper synthesis of cholesterol, supporting both "good" (HDL) and "bad" (LDL) lipid levels.</p>
+<h3>5. Promoting Skin and Nerve Health</h3>
+<p>Some research points to B5's role in maintaining healthy skin integrity and aiding wound healing. It also supports nerve function by helping maintain the myelin sheath around nerves, which can help prevent <strong>paresthesia</strong> (tingling or numbness).</p>
+<h2>Where Can I Find Vitamin B5 in My Diet?</h2>
+<p>The good news is that because B5 is so widely utilized, it is found naturally in a diverse range of foods. This makes true deficiency uncommon in well-nourished populations. Focus on incorporating variety into your meals to maximize intake.</p>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/vitamin-b5-pantothenic-acid-energy-metabolism-5.png" alt="Vitamin B5 Pantothenic Acid Energy Metabolism"></p>
+<p><strong>Top Food Sources of Vitamin B5:</strong></p>
+<ul>
+<li><strong>Meat &#x26; Organ Meats:</strong> Beef, chicken, turkey, and especially <strong>liver</strong> are exceptionally rich sources.</li>
+<li><strong>Seafood:</strong> Salmon, tuna, and various shellfish contribute significant amounts.</li>
+<li><strong>Eggs:</strong> A highly bioavailable source, particularly the yolk.</li>
+<li><strong>Dairy Products:</strong> Yogurt, milk, and cheese provide steady intake.</li>
+<li><strong>Vegetables &#x26; Fungi:</strong> <strong>Mushrooms</strong> (especially shiitake), avocados, sweet potatoes, and broccoli are excellent plant-based options.</li>
+<li><strong>Legumes &#x26; Grains:</strong> Lentils, beans, peas, brown rice, and whole grains offer reliable B5 support.</li>
+</ul>
+<h3>Tips for Maximizing Nutrient Absorption:</h3>
+<ol>
+<li><strong>Prioritize Variety:</strong> Don't rely on just one food group. A balanced plate incorporating meat, vegetables, and legumes ensures a wide spectrum of nutrients.</li>
+<li><strong>Cook Smart:</strong> Since Vitamin B5 is water-soluble, it can leach out during boiling. Opt for <strong>steaming, grilling, or stir-frying</strong> to preserve its content.</li>
+<li><strong>Listen to Your Body:</strong> If you are experiencing persistent fatigue despite a balanced diet, track your intake and consult a professional before assuming a deficiency.</li>
+</ol>
+<h2>What Are the Symptoms of Vitamin B5 Deficiency?</h2>
+<p>Because B5 is so common in food, true deficiency is rare in developed countries. However, certain medical conditions or poor absorption can increase risk.</p>
+<p><strong>Who is at Higher Risk?</strong></p>
+<ul>
+<li>Individuals with <strong>malabsorption issues</strong> (e.g., Crohn's disease, celiac disease).</li>
+<li>People undergoing intensive diets or severe malnutrition.</li>
+<li>Those taking specific medications that interfere with nutrient uptake.</li>
+</ul>
+<p><strong>Signs to Watch For:</strong>
+While symptoms can be subtle and mimic general fatigue, signs of B5 deficiency may include:</p>
+<ul>
+<li>Persistent <strong>fatigue</strong> and weakness.</li>
+<li>Frequent <strong>headaches</strong>.</li>
+<li>Muscle cramps or twitching.</li>
+<li>Numbness or tingling in the hands and feet (paresthesia).</li>
+<li>Digestive upset or loss of appetite.</li>
+</ul>
+<blockquote>
+<p><strong>⚠️ Important Note:</strong> If you suspect a deficiency, do not self-diagnose. Always consult your healthcare provider for proper blood testing and diagnosis.</p>
+</blockquote>
+<h2>Should I Take Vitamin B5 Supplements?</h2>
+<p>For most healthy adults with a varied diet, supplementation is unnecessary. However, in specific circumstances, a doctor may recommend it.</p>
+<p><strong>When Supplementation May Be Considered:</strong></p>
+<ul>
+<li>If you have been diagnosed with <strong>malabsorption issues</strong>.</li>
+<li>During periods of extreme physical stress or illness (under medical guidance).</li>
+<li>If your dietary intake is severely restricted or unbalanced.</li>
+</ul>
+<p><strong>Potential Risks and Precautions:</strong></p>
+<ul>
+<li><strong>Interactions:</strong> B5 supplements can interact with prescription medications. Always inform your doctor about all supplements you take.</li>
+<li><strong>Dosage:</strong> Stick to the Recommended Dietary Allowance (RDA) unless otherwise instructed by a professional. High doses are not always necessary or beneficial.</li>
+</ul>
+<h2>Summary &#x26; Next Steps for Optimal Health</h2>
+<p>Vitamin B5 is an essential, foundational nutrient that powers our metabolism and supports hormonal balance. By focusing on whole foods—especially <strong>meat, eggs, mushrooms, avocados, and legumes</strong>—you can ensure your body receives the steady supply it needs to maintain optimal energy levels. If you are concerned about your intake or experiencing persistent symptoms, remember that a conversation with a registered dietitian or primary care physician is the safest and most effective first step.</p>
+<hr>
+<h2><em>Disclaimer: The information provided in this article is for general informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition or treatment.</em></h2>4:["$","article",null,{"style":{"maxWidth":720,"margin":"0 auto","padding":"48px 24px 80px"},"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}],"$L9","$La","$Lb"]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/0jbyd6i7518-9.js","async":true}]
+6:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+9:["$","section",null,{"style":{"marginTop":56,"padding":32,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":24},"children":"Frequently Asked Questions"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":20},"children":[["$","div","0",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"Is Vitamin B5 deficiency common?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"True deficiency is rare because the vitamin is widely available in many foods. However, absorption issues can increase risk."}]]}],["$","div","1",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"Can I take supplements for energy?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"Always consult your doctor first. Supplements should address a diagnosed deficiency, not just general fatigue."}]]}]]}]]}]
+a:["$","section",null,{"style":{"marginTop":40},"children":[["$","h3",null,{"style":{"fontSize":"0.875rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":8},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://ods.od.nih.gov/factsheets/VitaminB5-HealthProfessional/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"National Institutes of Health (NIH) Dietary Guidelines"}]}],["$","li","1",{"children":["$","a",null,{"href":"https://lpi.oregonstate.edu/mic/vitamins/pantothenic-acid","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"Oregon State University - Linus Pauling Institute"}]}]]}]]}]
+b:["$","div",null,{"style":{"marginTop":48,"padding":16,"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0"},"children":["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6},"children":[["$","strong",null,{"children":"Medical Disclaimer:"}]," The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen."]}]}]
+e:null

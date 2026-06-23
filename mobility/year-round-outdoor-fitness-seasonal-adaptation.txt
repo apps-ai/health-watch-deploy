@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/2ak-ol5_up2gd.css","style"]
+:HL["/_next/static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","mobility","year-round-outdoor-fitness-seasonal-adaptation"],"q":"","i":false,"f":[[["",{"children":[["pillar","mobility","d",null],{"children":[["slug","year-round-outdoor-fitness-seasonal-adaptation","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ak-ol5_up2gd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0orpbtut_8u9w.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0jbyd6i7518-9.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ak-ol5_up2gd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JP9INJ3V-YFDN-Ge4B1yb"}
+f:[]
+9:"$Wf"
+10:I[3374,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js"],"Header"]
+11:I[58234,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js"],"Footer"]
+12:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"default"]
+4:[["$","$L10",null,{}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]
+5:["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","a",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","a",null,{"href":"/mobility","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"mobility"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Year-Round Outdoor Fitness: How to Adapt Your Routine for Every Season"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E7EDE4","color":"#7C9473","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Flexibility"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#FEF3D0","color":"#96680D","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Intermediate"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Year-Round Outdoor Fitness: How to Adapt Your Routine for Every Season"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Master seasonal fitness by learning how to adapt your outdoor workouts—from summer heat safety to winter cold preparation—for year-round consistency and enjoyment."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":["$","a",null,{"href":"https://linkedin.com/in/maya-santos-placeholder","target":"_blank","rel":"noopener noreferrer","style":{"color":"inherit","textDecoration":"underline","textUnderlineOffset":2},"children":"maya-santos"}]}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/sam-okonkwo","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"sam-okonkwo"}],", MD, PhD, CSCS"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}],"July 14, 2024"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L12",null,{"ref":"$undefined","iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],6," ","min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":"$L13"}]}],"$L14"]}]
+15:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"Image"]
+13:["$","$L15",null,{"src":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/year_round_outdoor_fitness_seasonal_adaptation_cover.png","alt":"People engaging in various outdoor fitness activities throughout the four seasons.","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true}]
+16:T2209,<h2>Why is Seasonal Adaptation Crucial for Outdoor Fitness?</h2>
+<p>Staying active outdoors year-round requires more than just willpower; it demands <strong>seasonal adaptation</strong>. This means adjusting your activities, intensity, and gear based on the weather and time of year to maximize enjoyment while minimizing injury risk. By understanding these changes, you can maintain consistent fitness levels regardless of whether it's scorching heat or deep snow.</p>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/year_round_outdoor_fitness_seasonal_adaptation_seasons_cycle.png" alt="Seasonal cycle diagram showing Spring, Summer, Autumn, and Winter with outdoor fitness activities like running, swimming, hiking, and skiing in each quadrant"></p>
+<h3>What Does "Seasonal Athlete" Mean?</h3>
+<p>Being a seasonal athlete is not about stopping when the weather turns; it's about becoming proficient at adapting. It means recognizing that <strong>safety protocols</strong> and <strong>optimal training methods</strong> change dramatically between seasons. This approach prevents common issues like overuse injuries, motivation dips, and severe weather-related accidents.</p>
+<h3>How Do Weather Conditions Affect Your Workout Options?</h3>
+<p>The most fundamental aspect of year-round fitness is understanding the physical challenges posed by different climates. Instead of viewing bad weather as a barrier, view it as a variable that requires strategic planning.</p>
+<h4>☀️ Summer (June–August): Managing Heat and Humidity</h4>
+<p>Summer offers long daylight hours perfect for activity, but the primary challenge is <strong>heat stress</strong>.</p>
+<ul>
+<li><strong>Best Activities:</strong> Swimming, cycling, early morning/late evening running, hiking.</li>
+<li><strong>Safety Focus: Preventing Heatstroke.</strong> The biggest risk is dehydration and heat exhaustion.
+<ul>
+<li><strong>Hydration Strategy:</strong> Drink water <em>before</em>, <em>during</em>, and <em>after</em> exercise. Consider electrolytes for prolonged efforts.</li>
+<li><strong>Timing:</strong> Avoid strenuous activity between <strong>10 am and 4 pm</strong>. Opt for dawn or dusk workouts.</li>
+<li><strong>Gear:</strong> Wear light-colored, loose-fitting clothing and use SPF 30+ sunscreen religiously.</li>
+</ul>
+</li>
+<li><strong>Tip:</strong> If the Air Quality Index (AQI) is poor, switch to an indoor workout instead of running outside.</li>
+</ul>
+<h4>🍂 Autumn (September–November): Embracing Change and Layers</h4>
+<p>Autumn brings beautiful scenery and crisp air, making it ideal for endurance activities like hiking and trail running. The key challenge here is <strong>temperature variability</strong>.</p>
+<ul>
+<li><strong>Best Activities:</strong> Hiking, trail running, cycling, outdoor yoga.</li>
+<li><strong>Safety Focus: Layering.</strong> Temperatures can fluctuate wildly in a single day.
+<ul>
+<li><strong>The Three-Layer Rule:</strong> Always dress with three layers:
+<ol>
+<li><strong>Base Layer:</strong> Moisture-wicking fabric (to keep sweat away from the skin).</li>
+<li><strong>Mid Layer:</strong> Insulation (fleece or wool for warmth).</li>
+<li><strong>Outer Layer:</strong> Waterproof and windproof shell (protection from elements).</li>
+</ol>
+</li>
+</ul>
+</li>
+<li><strong>Tip:</strong> Carry a lightweight rain jacket and wear shoes with excellent traction to handle wet leaves and muddy trails.</li>
+</ul>
+<h4>❄️ Winter (December–February): Preparation Against the Cold</h4>
+<p>Winter is arguably the most challenging season, but it offers unique opportunities like snowshoeing and cross-country skiing. The primary risks are <strong>hypothermia</strong> and <strong>slipping</strong>.</p>
+<ul>
+<li><strong>Best Activities:</strong> Cross-country skiing, snowshoeing, ice skating (on safe rinks).</li>
+<li><strong>Safety Focus: Staying Dry and Warm.</strong> Wet clothing is the fastest way to lose body heat.
+<ul>
+<li><strong>Layering:</strong> Follow the three-layer rule, but emphasize waterproof outer shells.</li>
+<li><strong>Protection:</strong> Cover all exposed skin—hats, gloves, scarves are non-negotiable.</li>
+<li><strong>Traction:</strong> Use microspikes or cleats on shoes for icy paths.</li>
+<li><strong>Warm-up:</strong> Spend extra time warming up your muscles; cold temperatures require a longer warm-up period than usual.</li>
+</ul>
+</li>
+</ul>
+<h4>🌸 Spring (March–May): Navigating Unpredictability and Allergies</h4>
+<p>Spring is the season of rebirth, but it can be highly unpredictable—combining rain, mud, and pollen.</p>
+<ul>
+<li><strong>Best Activities:</strong> Running, cycling, gardening, outdoor sports.</li>
+<li><strong>Safety Focus: Flexibility.</strong> Be prepared for rapid changes in weather (rain one hour, sun the next).
+<ul>
+<li><strong>Allergy Management:</strong> If you suffer from seasonal allergies, check the <strong>pollen forecast</strong>. On high-pollen days, consider exercising indoors or showering immediately after your workout to remove pollen residue.</li>
+<li><strong>Footwear:</strong> Choose shoes with good grip for muddy trails.</li>
+</ul>
+</li>
+<li><strong>Tip:</strong> The increasing daylight hours are a huge bonus! Take advantage of longer evenings for workouts.</li>
+</ul>
+<h3>What Are the Universal Safety Rules for Extreme Weather?</h3>
+<p>Regardless of the season, certain safety rules must always be followed when exercising outdoors:</p>
+<ol>
+<li><strong>Check the Forecast:</strong> Never leave home without checking the detailed weather forecast and understanding potential risks (e.g., lightning, flash floods).</li>
+<li><strong>Tell Someone Your Plan:</strong> Always inform a friend or family member of your intended route and expected return time.</li>
+<li><strong>Know the Warning Signs:</strong>
+<ul>
+<li><strong>Heatstroke:</strong> Confusion, dizziness, rapid pulse. Seek medical help immediately.</li>
+<li><strong>Hypothermia:</strong> Shivering uncontrollably, slurred speech, loss of coordination. Get warm and dry immediately.</li>
+</ul>
+</li>
+<li><strong>Carry Essentials:</strong> Always carry a fully charged phone, extra layers (even if the forecast is clear), and basic first-aid supplies.</li>
+</ol>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/year_round_outdoor_fitness_seasonal_adaptation_layering_system.png" alt="Infographic showing the proper cold weather layering system detailing base layer, mid layer, outer shell, and corresponding garments"></p>
+<h3>How Can I Maintain Motivation Year-Round?</h3>
+<p>Consistency is achieved through variety and planning. To prevent burnout and boredom, adopt these strategies:</p>
+<ul>
+<li><strong>Set Seasonal Goals:</strong> Instead of a generic "run 5k," set goals like "hike the local fall foliage trail" or "learn to ski this winter."</li>
+<li><strong>Find an Accountability Partner:</strong> Working out with a friend makes it harder to skip a session.</li>
+<li><strong>Embrace Cross-Training:</strong> If running is difficult in the snow, substitute it with indoor cycling or strength training. This keeps your muscles engaged without relying on perfect weather.</li>
+<li><strong>Schedule Rest Days:</strong> Treat rest and active recovery (like gentle stretching or yoga) as mandatory parts of your routine.</li>
+</ul>
+<h2>Summary: Your Year-Round Fitness Checklist</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Season</th><th align="left">Primary Challenge</th><th align="left">Key Gear/Prep</th><th align="left">Best Activities</th></tr></thead><tbody><tr><td align="left"><strong>Summer</strong></td><td align="left">Heat, Humidity</td><td align="left">Hydration pack, SPF 30+, Light clothing</td><td align="left">Swimming, Cycling, Early Morning Running</td></tr><tr><td align="left"><strong>Autumn</strong></td><td align="left">Temperature Swings</td><td align="left">Layered clothing (Base/Mid/Outer), Traction shoes</td><td align="left">Hiking, Trail Running, Outdoor Yoga</td></tr><tr><td align="left"><strong>Winter</strong></td><td align="left">Cold, Ice, Low Light</td><td align="left">Waterproof layers, Hat/Gloves, Microspikes</td><td align="left">Snowshoeing, Cross-Country Skiing</td></tr><tr><td align="left"><strong>Spring</strong></td><td align="left">Rain, Allergies, Mud</td><td align="left">Quick-dry clothes, Allergy medication, Good grip shoes</td><td align="left">Running, Cycling, Gardening</td></tr></tbody></table>
+<p>By treating your fitness journey as a year-round commitment—and not just a summer hobby—you can adapt to every season's unique demands and stay active, safe, and strong all year long.</p>14:["$","article",null,{"style":{"maxWidth":720,"margin":"0 auto","padding":"48px 24px 80px"},"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17","$L18","$L19"]}]
+17:["$","section",null,{"style":{"marginTop":56,"padding":32,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":24},"children":"Frequently Asked Questions"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":20},"children":[["$","div","0",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"What is the best way to prevent seasonal fitness burnout?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"Maintain consistency by embracing variety. If one season's activities are challenging (e.g., winter), substitute with indoor alternatives like strength training or yoga, and plan for a 'fun' activity every week."}]]}]]}]]}]
+18:["$","section",null,{"style":{"marginTop":40},"children":[["$","h3",null,{"style":{"fontSize":"0.875rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":8},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://www.acsm.org/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"American College of Sports Medicine (ACSM)"}]}]]}]]}]
+19:["$","div",null,{"style":{"marginTop":48,"padding":16,"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0"},"children":["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6},"children":[["$","strong",null,{"children":"Medical Disclaimer:"}]," The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen."]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Year-Round Outdoor Fitness: How to Adapt Your Routine for Every Season"}],["$","meta","1",{"name":"description","content":"Master seasonal fitness by learning how to adapt your outdoor workouts—from summer heat safety to winter cold preparation—for year-round consistency and enjoyment."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://healthwatch.com/mobility/year-round-outdoor-fitness-seasonal-adaptation"}],["$","meta","4",{"property":"og:title","content":"Year-Round Outdoor Fitness: How to Adapt Your Routine for Every Season"}],["$","meta","5",{"property":"og:description","content":"Master seasonal fitness by learning how to adapt your outdoor workouts—from summer heat safety to winter cold preparation—for year-round consistency and enjoyment."}],["$","meta","6",{"property":"og:image","content":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/year_round_outdoor_fitness_seasonal_adaptation_og.png"}],["$","meta","7",{"property":"og:image:alt","content":"People engaging in various outdoor fitness activities throughout the four seasons."}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2024-07-15T00:00:00.000Z"}],["$","meta","10",{"property":"article:modified_time","content":"2026-06-18T00:00:00.000Z"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Year-Round Outdoor Fitness: How to Adapt Your Routine for Every Season"}],["$","meta","13",{"name":"twitter:description","content":"Master seasonal fitness by learning how to adapt your outdoor workouts—from summer heat safety to winter cold preparation—for year-round consistency and enjoyment."}],["$","meta","14",{"name":"twitter:image","content":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/outdoors/year_round_outdoor_fitness_seasonal_adaptation_twitter.png"}],["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1a","16",{}]]

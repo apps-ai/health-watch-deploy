@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+2:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"default"]
+7:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0orpbtut_8u9w.js","/_next/static/chunks/0jbyd6i7518-9.js"],"Image"]
+c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","a",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","a",null,{"href":"/nutrition","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"nutrition"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Niacin (Vitamin B3): The Essential Nutrient for Energy Metabolism and DNA Health"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E4ECE0","color":"#5B7553","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Nutrition"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#FEF3D0","color":"#96680D","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Intermediate"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Niacin (Vitamin B3): The Essential Nutrient for Energy Metabolism and DNA Health"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Discover how Niacin (Vitamin B3) powers your energy metabolism, supports DNA repair, and maintains skin health. Learn about sources, deficiency symptoms, and safe usage."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L2",null,{"iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":["$","a",null,{"href":"https://linkedin.com/in/alex-chen-placeholder","target":"_blank","rel":"noopener noreferrer","style":{"color":"inherit","textDecoration":"underline","textUnderlineOffset":2},"children":"alex-chen"}]}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/jordan-ellis","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"jordan-ellis"}],", PhD, RD"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L2",null,{"iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}],"July 14, 2024"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L2",null,{"iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],6," ","min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":"$L3"}]}],"$L4"]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JP9INJ3V-YFDN-Ge4B1yb"}
+3:["$","$L7",null,{"src":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/niacin-vitamin-b3-energy-metabolism-guide-1.png","alt":"Niacin-rich foods supporting metabolism and DNA health.","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true}]
+8:T206b,<h2>What is Niacin (Vitamin B3), and Why Is It Crucial for Your Body?</h2>
+<p>Niacin, or Vitamin B3, is an essential nutrient that acts as a metabolic powerhouse within your cells. Its primary role is to help convert the food you eat into usable energy and maintain the integrity of your genetic material through DNA repair. Deficiency can lead to serious conditions like Pellagra, making consistent intake crucial for optimal health.</p>
+<h3>How Does Niacin Work? The Science Behind B3</h3>
+<p>Niacin isn't just a single vitamin; it is a critical component required to synthesize two major coenzymes: <strong>Nicotinamide Adenine Dinucleotide (NAD+)</strong> and <strong>Nicotinamide Adenine Dinucleotide Phosphate (NADP+)</strong>. These molecules are the true workhorses of your metabolism.</p>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/niacin-vitamin-b3-energy-metabolism-guide-4.png" alt="Niacin Vitamin B3 Energy Metabolism Guide"></p>
+<p><strong>Key Functions of Niacin:</strong></p>
+<ul>
+<li><strong>⚡ Energy Metabolism:</strong> This is niacin's most famous role. NAD+ and NADP+ participate in hundreds of reactions that release energy from carbohydrates, fats, and proteins. Simply put, they allow your body to turn food fuel into usable <strong>ATP (adenosine triphosphate)</strong>.</li>
+<li><strong>🧬 DNA Repair and Synthesis:</strong> Niacin supports the maintenance of your genetic code. It is involved in the processes that detect and repair damaged DNA, which is vital for cell division and preventing age-related decline.</li>
+<li><strong>🛡️ Antioxidant Protection:</strong> The coenzymes also function as powerful antioxidants, protecting cells from damage caused by unstable molecules called <strong>free radicals</strong>.</li>
+<li><strong>✨ Skin Health &#x26; Signaling:</strong> Niacinamide (a form of niacin) is known for its ability to strengthen the skin's natural barrier, reduce inflammation, and help regulate oil production. It also plays a role in cell-to-cell communication.</li>
+</ul>
+<h2>Where Can You Find Enough Niacin in Your Diet?</h2>
+<p>Fortunately, getting enough B3 through food sources is generally straightforward. Focusing on a varied diet rich in these key nutrients can prevent deficiency.</p>
+<p><strong>Top Dietary Sources:</strong></p>
+<ul>
+<li><strong>Meat and Organ Meats:</strong> Beef, pork, and especially <strong>liver</strong> are among the richest natural sources of niacin.</li>
+<li><strong>Poultry and Fish:</strong> Chicken, turkey, tuna, and salmon provide significant amounts of this vitamin.</li>
+<li><strong>Nuts and Seeds:</strong> Peanuts, almonds, and sunflower seeds offer smaller but valuable contributions.</li>
+<li><strong>Whole Grains:</strong> Opt for whole-wheat bread, brown rice, and fortified cereals, as these often contain added niacin or niacinamide.</li>
+<li><strong>Legumes:</strong> Beans and lentils are good plant-based sources to incorporate into your meals.</li>
+</ul>
+<h3>💡 Quick Tips for Maximizing Niacin Intake:</h3>
+<ol>
+<li><strong>Prioritize Whole Foods:</strong> Choose whole grains over refined white flour products whenever possible.</li>
+<li><strong>Vary Your Plate:</strong> Don't rely on one source; combine different types of protein and grains throughout the week.</li>
+<li><strong>Avoid Overcooking:</strong> Excessive cooking, especially boiling vegetables, can degrade some water-soluble vitamins like B3.</li>
+</ol>
+<h2>What Happens When Niacin Levels Drop? Understanding Deficiency</h2>
+<p>While deficiency is rare in developed nations due to food fortification, a lack of niacin can lead to serious health issues. The most severe condition associated with chronic deficiency is <strong>Pellagra</strong>.</p>
+<h3>🚨 Pellagra: The "Four D's" Warning</h3>
+<p>Pellagra is characterized by four classic symptoms—the "Four D's"—which require immediate medical attention if suspected:</p>
+<ul>
+<li><strong>Dermatitis:</strong> A distinctive, often symmetrical skin rash that appears in areas exposed to sunlight.</li>
+<li><strong>Diarrhea:</strong> Persistent gastrointestinal issues, including nausea and digestive upset.</li>
+<li><strong>Dementia:</strong> Neurological symptoms such as confusion, memory loss, and cognitive decline.</li>
+<li><strong>Death:</strong> If left untreated, the condition can be fatal.</li>
+</ul>
+<h3>Other Signs of Low Niacin:</h3>
+<p>Even before developing Pellagra, milder deficiency can manifest as:</p>
+<ul>
+<li>Chronic <strong>fatigue</strong> and weakness.</li>
+<li>Persistent digestive discomfort or <strong>indigestion</strong>.</li>
+<li>Mouth sores (glossitis).</li>
+<li>Low mood or signs of <strong>depression</strong>.</li>
+</ul>
+<h3>Who Is at Higher Risk?</h3>
+<p>Certain groups must be extra vigilant about their niacin intake, as absorption can be impaired:</p>
+<ul>
+<li>Individuals with <strong>alcohol use disorder</strong>.</li>
+<li>People with malabsorption syndromes (e.g., Crohn's disease).</li>
+<li>Those on highly restrictive or unbalanced diets.</li>
+</ul>
+<h2>How Much Niacin Do I Need? Recommended Intake and Supplement Safety</h2>
+<p>The recommended daily allowance (RDA) varies by age and sex, but the body is generally best at absorbing niacin from food sources.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Group</th><th align="left">RDA (mg NE)</th></tr></thead><tbody><tr><td align="left">Adult Men</td><td align="left">16 mg</td></tr><tr><td align="left">Adult Women</td><td align="left">14 mg</td></tr><tr><td align="left">Pregnant Women</td><td align="left">18 mg</td></tr></tbody></table>
+<p><em>Note: <strong>NE</strong> stands for Niacin Equivalents, accounting for the body's ability to convert tryptophan (an amino acid) into niacin.</em></p>
+<h3>Is Taking Supplements Safe? Understanding Toxicity</h3>
+<p>While supplements can be useful in cases of diagnosed deficiency, caution is paramount. High doses of supplemental niacin are not harmless and carry risks:</p>
+<ul>
+<li><strong>Niacin Flush:</strong> The most common side effect is a temporary flushing reaction—redness, itching, and burning sensation on the skin (especially face/neck).</li>
+<li><strong>Liver Damage:</strong> Extremely high doses can put stress on the liver.</li>
+<li><strong>Gout Risk:</strong> Niacin can increase uric acid levels, potentially triggering gout attacks.</li>
+</ul>
+<blockquote>
+<p><strong>⚠️ Critical Safety Warning:</strong> Never take high-dose niacin supplements for cholesterol management without explicit medical supervision. These treatments require careful monitoring due to potential side effects and interactions with other medications.</p>
+</blockquote>
+<h2>Beyond Energy: The Role of Niacinamide in Skincare</h2>
+<p>Niacinamide, a specific form of Vitamin B3, has gained significant popularity in the cosmetic industry because of its topical benefits. It works by supporting the skin's natural processes:</p>
+<ul>
+<li><strong>Strengthening the Barrier:</strong> It helps reinforce the skin barrier function, reducing moisture loss and protecting against environmental irritants.</li>
+<li><strong>Calming Inflammation:</strong> Its anti-inflammatory properties help soothe redness and irritation.</li>
+<li><strong>Regulating Oil:</strong> Niacinamide can help balance sebum production, making it beneficial for managing oily or acne-prone skin.</li>
+</ul>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/niacin-vitamin-b3-energy-metabolism-guide-5.png" alt="Niacin Vitamin B3 Energy Metabolism Guide"></p>
+<h2>Summary &#x26; Next Steps</h2>
+<p>Niacin is a foundational vitamin that supports everything from cellular energy production and DNA repair to maintaining clear skin. While dietary sources are usually sufficient for most people, understanding the signs of deficiency—and knowing when high-dose supplementation is necessary—is key to proactive health management.</p>
+<h2>If you suspect a niacin deficiency or are considering using B3 supplements for specific goals (like cholesterol management), <strong>always consult with your primary care physician or a registered dietitian.</strong> They can perform blood tests and provide personalized, safe recommendations tailored to your unique needs.</h2>4:["$","article",null,{"style":{"maxWidth":720,"margin":"0 auto","padding":"48px 24px 80px"},"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$8"}}],"$L9","$La","$Lb"]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/0jbyd6i7518-9.js","async":true}]
+6:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+9:["$","section",null,{"style":{"marginTop":56,"padding":32,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":24},"children":"Frequently Asked Questions"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":20},"children":[["$","div","0",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"Can I take niacin supplements for general energy?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"While Niacin is vital for energy, always consult your doctor. High doses can cause side effects and should be monitored professionally."}]]}],["$","div","1",{"children":[["$","h3",null,{"style":{"fontSize":"1rem","fontWeight":600,"color":"var(--text-primary)","marginBottom":8},"children":"What are the primary sources of Vitamin B3?"}],["$","p",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-secondary)","lineHeight":1.65},"children":"Excellent dietary sources include meat (especially liver), poultry, fish (like salmon), nuts, seeds, and whole grains."}]]}]]}]]}]
+a:["$","section",null,{"style":{"marginTop":40},"children":[["$","h3",null,{"style":{"fontSize":"0.875rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":8},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"National Institutes of Health (NIH) Dietary Guidelines"}]}]]}]]}]
+b:["$","div",null,{"style":{"marginTop":48,"padding":16,"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0"},"children":["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6},"children":[["$","strong",null,{"children":"Medical Disclaimer:"}]," The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen."]}]}]
+e:null
