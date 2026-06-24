@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],""]
+3:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"default"]
+9:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"Image"]
+a:I[45638,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FloatingToC"]
+10:I[63151,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"ArticleCard"]
+11:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[32637,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FAQAccordion"]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","$L2",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"aria-hidden":true,"children":"›"}],["$","$L2",null,{"href":"/vitamins","style":{"color":"var(--brand-primary)","textDecoration":"none","textTransform":"capitalize"},"children":"vitamins"}],["$","span",null,{"aria-hidden":true,"children":"›"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Vitamin C Benefits: Sources, Deficiency, and How It Supports Immunity"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap","--chip-bg-light":"#FDF4E5","--chip-bg-dark":"#3A2A1A","--chip-text-light":"#D69C2F","--chip-text-dark":"var(--text-primary)"},"className":"pillar-chip","children":"Vitamins"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#E4ECE0","color":"#4A6344","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Beginner"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Vitamin C Benefits: Sources, Deficiency, and How It Supports Immunity"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Discover how Vitamin C (ascorbic acid) functions as a powerful antioxidant, supports collagen production, boosts immunity, and what you need to know about deficiency symptoms."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L3",null,{"iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":"alex-chen"}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/jordan-ellis","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"jordan-ellis"}],", PhD, RD"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L3",null,{"iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}]," ","July 14, 2024"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L3",null,{"iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],6," min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":"$L4"}]}],"$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ioRpH5ggUUuDcUg58NJYV"}
+4:["$","$L9",null,{"src":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/vitamin-c-benefits-sources-deficiency-1.png","alt":"Fresh assortment of vitamin C rich fruits and vegetables.","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true,"unoptimized":true}]
+b:T26e5,<h2>What is Vitamin C and Why Is It Essential for Health?</h2>
+<p>Vitamin C, scientifically known as <strong>ascorbic acid</strong>, is a vital water-soluble vitamin that plays numerous roles in maintaining overall health. Because it is water-soluble, the body excretes excess amounts through urine, meaning consistent dietary intake is crucial. Essentially, think of Vitamin C as your body's primary defense mechanism and structural support system, protecting cells from damage while helping build strong tissues.</p>
+<h3>How Does Vitamin C Work in the Body?</h3>
+<p>Vitamin C’s importance stems from its diverse functions across multiple bodily systems. Understanding these roles helps clarify why it is considered a foundational nutrient for wellness.</p>
+<h4>The Antioxidant Shield</h4>
+<p>One of Vitamin C's most critical jobs is acting as a potent <strong>antioxidant</strong>. Free radicals are unstable molecules that naturally build up in the body due to environmental factors (like pollution) and metabolic processes. These free radicals can damage cell membranes, DNA, and proteins—a process linked to aging and chronic diseases. Vitamin C neutralizes these harmful free radicals, effectively acting as a shield that keeps your cells safe and functioning optimally.</p>
+<h4>The Collagen Builder</h4>
+<p>Vitamin C is absolutely essential for <strong>collagen synthesis</strong>. Collagen is the most abundant protein in the human body, providing structural integrity to skin, tendons, ligaments, blood vessels, and cartilage. Without adequate Vitamin C, the body cannot properly form stable collagen structures, leading to weakened tissues and poor wound healing.</p>
+<h4>Immune System Support</h4>
+<p>Vitamin C significantly boosts immune function by supporting the production and effectiveness of <strong>white blood cells</strong>. These specialized cells are your body's frontline defense against pathogens (bacteria and viruses). By keeping these immune components robust, Vitamin C helps ensure a faster and more effective response to infection.</p>
+<h4>Enhancing Iron Absorption</h4>
+<p>For those following plant-based diets, Vitamin C is a crucial helper for iron absorption. It dramatically increases the bioavailability of <strong>non-heme iron</strong>—the type found in plants—helping your body utilize this vital mineral to prevent anemia.</p>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/vitamin-c-benefits-sources-deficiency-4.png" alt="Vitamin C Benefits Sources Deficiency"></p>
+<h2>Where Do I Get My Daily Dose? Best Food Sources of Vitamin C</h2>
+<p>While supplements are available, the most natural and beneficial way to obtain Vitamin C is through a varied diet. Fortunately, many delicious foods are packed with this nutrient.</p>
+<h3>Top-Tier Sources (High Concentration)</h3>
+<ul>
+<li><strong>Bell Peppers:</strong> Especially red and yellow varieties, these contain remarkably high levels of Vitamin C. They can be added raw to salads or cooked into stir-fries.</li>
+<li><strong>Broccoli &#x26; Brussels Sprouts:</strong> These cruciferous vegetables are nutritional powerhouses, providing not only Vitamin C but also fiber and other beneficial compounds.</li>
+<li><strong>Kiwi Fruit:</strong> This small fruit is exceptionally rich in Vitamin C and antioxidants.</li>
+</ul>
+<h3>Excellent Supporting Sources</h3>
+<ul>
+<li><strong>Citrus Fruits:</strong> Oranges, lemons, limes, and grapefruits remain classic sources of Vitamin C. Enjoying fresh juice or adding lemon zest to water are great ways to boost intake.</li>
+<li><strong>Berries:</strong> Strawberries, blueberries, raspberries, and blackberries are packed with both Vitamin C and other powerful antioxidants.</li>
+<li><strong>Tropical Fruits:</strong> Guava and papaya also offer significant amounts of this vitamin.</li>
+</ul>
+<h3>Other Valuable Contributors</h3>
+<ul>
+<li><strong>Tomatoes:</strong> While not the highest source, tomatoes provide Vitamin C alongside lycopene, an antioxidant linked to heart health.</li>
+<li><strong>Potatoes (with skin):</strong> These contain a respectable amount of Vitamin C, making them a good staple vegetable.</li>
+<li><strong>Spinach and Leafy Greens:</strong> Although lower than peppers or broccoli, they contribute valuable amounts when consumed regularly as part of a balanced diet.</li>
+</ul>
+<h2>What Happens When I Have a Deficiency? Understanding Scurvy Symptoms</h2>
+<p>Vitamin C deficiency is rare in developed nations but can occur due to poor dietary habits, malabsorption issues, or increased needs (like smoking). The most severe form of deficiency is <strong>scurvy</strong>.</p>
+<h3>Key Signs of Low Vitamin C</h3>
+<ul>
+<li><strong>Bleeding Gums:</strong> Swollen, inflamed gums that bleed easily are one of the earliest and most recognizable signs.</li>
+<li><strong>Poor Wound Healing:</strong> Cuts and bruises take significantly longer to heal than normal.</li>
+<li><strong>Fatigue and Weakness:</strong> Persistent tiredness and lack of energy can signal a deficiency.</li>
+<li><strong>Joint Pain:</strong> Generalized aches and stiffness may occur.</li>
+</ul>
+<p><img src="https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/vitamin-c-benefits-sources-deficiency-5.png" alt="Vitamin C Benefits Sources Deficiency"></p>
+<h2>How Much Vitamin C Do I Actually Need? Recommended Daily Allowance (RDA)</h2>
+<p>The required amount of Vitamin C varies based on age, sex, and lifestyle. Meeting these needs through diet is always the goal.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Group</th><th align="left">RDA (Milligrams/Day)</th><th align="left">Notes</th></tr></thead><tbody><tr><td align="left"><strong>Adult Men</strong></td><td align="left">90 mg</td><td align="left">General maintenance level.</td></tr><tr><td align="left"><strong>Adult Women</strong></td><td align="left">75 mg</td><td align="left">General maintenance level.</td></tr><tr><td align="left"><strong>Pregnant Women</strong></td><td align="left">85 mg</td><td align="left">Increased needs for fetal development.</td></tr><tr><td align="left"><strong>Breastfeeding Women</strong></td><td align="left">120 mg</td><td align="left">Supports milk production and maternal health.</td></tr></tbody></table>
+<p><em><strong>Important Note on Smokers:</strong></em> Smoking significantly increases the body's oxidative stress, meaning smokers require an elevated intake of Vitamin C to counteract this damage.</p>
+<h2>Should I Take a Vitamin C Supplement? Safety and Usage Guidelines</h2>
+<p>Supplements can be useful for individuals with specific dietary gaps or increased needs (like athletes or those who smoke). However, they should never replace whole foods.</p>
+<h3>Who Might Benefit from Supplements?</h3>
+<ul>
+<li><strong>Individuals with restricted diets:</strong> Those who struggle to eat enough diverse fruits and vegetables.</li>
+<li><strong>Smokers:</strong> To help meet the elevated antioxidant demand.</li>
+<li><strong>People recovering from surgery or illness:</strong> When nutritional needs are temporarily high.</li>
+</ul>
+<h3>Understanding Supplement Forms</h3>
+<p>Different forms of Vitamin C may be better suited for certain digestive systems:</p>
+<ul>
+<li><strong>Ascorbic Acid:</strong> The standard, most common form.</li>
+<li><strong>Sodium Ascorbate / Calcium Ascorbate:</strong> These buffered forms can sometimes be gentler on an irritated stomach lining.</li>
+<li><strong>Liposomal Vitamin C:</strong> This advanced encapsulation method aims to improve the vitamin's absorption rate in the gut.</li>
+</ul>
+<h3>Safety and Side Effects Checklist</h3>
+<p>Vitamin C is generally safe, but excessive intake can cause gastrointestinal distress. Be aware of these potential side effects:</p>
+<ul>
+<li><strong>Diarrhea and Nausea:</strong> Common when taking very high doses.</li>
+<li><strong>Kidney Stones:</strong> Very high, chronic doses may increase the risk of kidney stone formation in susceptible individuals.</li>
+</ul>
+<p><em><strong>Always consult your healthcare provider before starting any supplement regimen, especially if you are on prescription medications or have existing health conditions.</strong></em></p>
+<h2>Vitamin C and Cold Symptoms: Myth vs. Fact</h2>
+<p>The common belief that Vitamin C can prevent a cold is largely inaccurate. However, research suggests it may play a supportive role when symptoms begin.</p>
+<ul>
+<li><strong>Prevention:</strong> There is no conclusive evidence that Vitamin C prevents the common cold in the general population.</li>
+<li><strong>Duration and Severity:</strong> Some studies suggest that regular supplementation <em>may</em> help reduce the duration or severity of symptoms if taken at the very first sign of illness.</li>
+</ul>
+<h2>Summary: Integrating Vitamin C into Your Daily Routine</h2>
+<p>To maximize your intake, focus on variety and consistency. Incorporate these simple habits:</p>
+<ol>
+<li><strong>Breakfast Boost:</strong> Start with a smoothie combining berries (antioxidants) and kiwi (high in Vitamin C).</li>
+<li><strong>Mid-Day Snack:</strong> Swap processed snacks for bell peppers or an orange to get a quick dose of nutrients.</li>
+<li><strong>Dinner Plate:</strong> Ensure your meal includes cruciferous vegetables like broccoli or Brussels sprouts.</li>
+</ol>
+<p>By prioritizing whole, nutrient-dense foods and understanding the vital roles Vitamin C plays in immunity and tissue repair, you can effectively support your body's natural defenses every day.</p>
+<h2><em><strong>Disclaimer:</strong></em> <em>The information provided in this article is for general informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition or treatment.</em></h2>5:["$","div",null,{"className":"article-layout","style":{"maxWidth":1100,"margin":"0 auto","padding":"0 24px","display":"grid","gridTemplateColumns":"200px 1fr 200px","gap":40,"alignItems":"start","paddingTop":48,"paddingBottom":80},"children":[["$","div",null,{"className":"hide-on-mobile","children":["$","$La",null,{"headings":[]}]}],["$","article",null,{"children":[false,false,false,false,false,["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$b"}}],"$Lc","$Ld","$Le"]}],"$Lf"]}]
+6:["$","section",null,{"style":{"backgroundColor":"var(--bg-surface)","borderTop":"1px solid var(--border-default)","padding":"56px 24px 80px"},"children":["$","div",null,{"style":{"maxWidth":1100,"margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":32,"marginTop":0},"children":"Read Next"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fill, minmax(280px, 1fr))","gap":24},"children":[["$","$L10","biotin-benefits-hair-skin-energy-metabolism",{"article":{"id":"biotin-benefits-hair-skin-energy-metabolism","title":"Biotin (Vitamin B7) Benefits: Guide for Hair, Skin, and Energy Metabolism","description":"Discover how Biotin (Vitamin B7) supports energy production, cell growth, and healthy hair, skin, and nails. Learn about food sources and crucial safety warnings.","pillar":"vitamins","difficulty":"Beginner","author":"alex-chen","readTime":6,"type":"Article","coverImage":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/biotin-benefits-hair-skin-energy-metabolism-1.png","coverImageAlt":"Biotin-rich foods including nuts, seeds, and eggs for healthy metabolism.","href":"/vitamins/biotin-benefits-hair-skin-energy-metabolism"}}],["$","$L10","debunking-vitamin-myths-science-backed-guide",{"article":{"id":"debunking-vitamin-myths-science-backed-guide","title":"Vitamin Myths Debunked: The Science of Supplements and Nutrition","description":"Are vitamins necessary? Learn the scientific facts about supplements, debunk common myths (like Vitamin C for colds), and understand how diet remains the best source of nutrients.","pillar":"vitamins","difficulty":"Intermediate","author":"alex-chen","readTime":6,"type":"Article","coverImage":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/debunking-vitamin-myths-science-backed-guide-1.png","coverImageAlt":"Diverse array of healthy whole foods representing optimal nutrition.","href":"/vitamins/debunking-vitamin-myths-science-backed-guide"}}],["$","$L10","essential-vitamins-guide-solubility-deficiency",{"article":{"id":"essential-vitamins-guide-solubility-deficiency","title":"Vitamins Explained: Essential Micronutrients for Optimal Health","description":"Discover what vitamins are, how they function in your body, and the critical differences between fat-soluble and water-soluble nutrients. Learn to prevent deficiency and toxicity.","pillar":"vitamins","difficulty":"Beginner","author":"alex-chen","readTime":6,"type":"Article","coverImage":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/vitamins/essential-vitamins-guide-solubility-deficiency-1.png","coverImageAlt":"Colorful array of fresh produce representing vitamin sources for optimal health.","href":"/vitamins/essential-vitamins-guide-solubility-deficiency"}}]]}]]}]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0qwe7f-u1ib-7.js","async":true}]
+8:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+c:["$","$L14",null,{"items":[{"question":"Can Vitamin C cure the common cold?","answer":"While it may not prevent colds entirely, taking Vitamin C at the first sign of symptoms can help reduce the duration and severity of your illness."},{"question":"What is the best way to absorb Vitamin C?","answer":"The most natural and effective way is through a varied diet rich in fresh fruits and vegetables. Supplements should be used only when dietary intake is insufficient."}]}]
+d:["$","section",null,{"aria-label":"Article sources","style":{"marginTop":"2.5rem","paddingTop":"1.5rem","borderTop":"1px solid var(--border-default)"},"children":[["$","h3",null,{"style":{"fontSize":"0.8125rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12,"marginTop":0},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":6,"margin":0},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"National Institutes of Health (NIH) Dietary Guidelines"}]}],["$","li","1",{"children":["$","a",null,{"href":"https://www.mayoclinic.org/drugs-supplements-vitamin-c/art-20363932","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"Mayo Clinic - Vitamin C"}]}]]}]]}]
+e:["$","aside",null,{"role":"note","aria-label":"Medical Disclaimer","style":{"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0","padding":"16px 20px","marginTop":"2rem","display":"flex","gap":12},"children":[["$","div",null,{"style":{"flexShrink":0,"paddingTop":2},"children":["$","$L3",null,{"iconNode":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"className":"lucide-triangle-alert","size":16,"style":{"color":"var(--callout-disclaimer-border)"}}]}],["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6,"margin":0},"children":[["$","strong",null,{"children":"Medical Disclaimer: "}],"The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen. ",["$","$L2",null,{"href":"/disclaimer","style":{"color":"var(--callout-disclaimer-border)","textDecoration":"underline"},"children":"Read our full disclaimer."}]]}]]}]
+f:["$","div",null,{"className":"hide-on-mobile"}]
+13:null
