@@ -6,10 +6,10 @@
 a:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
 c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
 e:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
-:HL["/_next/static/chunks/0bq3nkg24o9ov.css","style"]
+:HL["/_next/static/chunks/1cs_jij9gl2bf.css","style"]
 :HL["/_next/static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","weight-loss","fat-loss-hiit-circuit"],"q":"","i":false,"f":[[["",{"children":[["pillar","weight-loss","d",null],{"children":[["slug","fat-loss-hiit-circuit","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0bq3nkg24o9ov.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0-ogdax7fbfue.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qwe7f-u1ib-7.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0bq3nkg24o9ov.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ioRpH5ggUUuDcUg58NJYV"}
+0:{"P":null,"c":["","weight-loss","fat-loss-hiit-circuit"],"q":"","i":false,"f":[[["",{"children":[["pillar","weight-loss","d",null],{"children":[["slug","fat-loss-hiit-circuit","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1cs_jij9gl2bf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0-ogdax7fbfue.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qwe7f-u1ib-7.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1cs_jij9gl2bf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gjgWkArlVo08qc2uIQ1Vs"}
 f:[]
 9:"$Wf"
 10:I[3374,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js"],"Header"]
@@ -24,15 +24,448 @@ f:[]
 15:["$","div",null,{"className":"hide-on-mobile","children":["$","$L19",null,{"headings":[]}]}]
 16:["$","article",null,{"children":[false,["$","div",null,{"style":{"padding":24,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)","marginBottom":32},"children":[["$","h3",null,{"style":{"fontFamily":"var(--font-heading)","fontSize":"1.25rem","color":"var(--text-primary)","marginBottom":12,"marginTop":0},"children":"💪 Workout Program"}],["$","p",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)","marginBottom":20},"children":["Duration: ",4," Weeks | Frequency: ",4," sessions/week | Equipment: ","none (bodyweight only)"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":24},"children":[["$","div","0",{"style":{"borderTop":"none","paddingTop":0},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",1,": ","Lower Body Conditioning"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Bodyweight Jump Squats"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Reverse Lunges (alternating)"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Speed Skater Jumps"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Plank Jacks"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}]]}]]}],["$","div","1",{"style":{"borderTop":"1px solid var(--border-default)","paddingTop":16},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",2,": ","Upper Body & Core Endurance"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Push-Ups (tempo)"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Mountain Climbers"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Pike Push-Ups"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Bicycle Crunches"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","40 sec work, 20 sec rest"," (",60,"s rest)"]}]]}]]}]]}],"$L1a","$L1b"]}]]}],false,false,false,"$L1c","$L1d","$L1e","$L1f"]}]
 17:["$","div",null,{"className":"hide-on-mobile"}]
-18:["$","section",null,{"style":{"backgroundColor":"var(--bg-surface)","borderTop":"1px solid var(--border-default)","padding":"56px 24px 80px"},"children":["$","div",null,{"style":{"maxWidth":1100,"margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":32,"marginTop":0},"children":"Read Next"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fill, minmax(280px, 1fr))","gap":24},"children":[["$","$L20","calorie-deficit-guide",{"article":{"id":"calorie-deficit-guide","title":"How to Create a Calorie Deficit Safely and Sustainably","description":"A calorie deficit is required for fat loss, but starving yourself is counterproductive. Learn how to structure a sustainable approach.","pillar":"weight-loss","difficulty":"Beginner","author":"Dr. Sarah Okafor","readTime":6,"type":"Article","coverImage":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=640&h=360&fit=crop&auto=format","coverImageAlt":"Healthy meal with protein, vegetables, and complex carbohydrates","href":"/weight-loss/calorie-deficit-guide"}}],["$","$L20","sustainable-weight-loss-without-counting",{"article":{"id":"sustainable-weight-loss-without-counting","title":"Sustainable Weight Loss Without Calorie Counting: What the Science Actually Says","description":"Obsessive calorie counting often leads to a worse relationship with food. Here are the evidence-backed strategies that work long-term without a spreadsheet.","pillar":"weight-loss","difficulty":"Beginner","author":"sam-okonkwo","readTime":8,"type":"Article","coverImage":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/weight-loss/sustainable-weight-loss-cover.png","coverImageAlt":"Healthy balanced meal with vegetables, protein, and whole grains","href":"/weight-loss/sustainable-weight-loss-without-counting"}}]]}]]}]}]
-21:I[32637,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FAQAccordion"]
+18:["$","section",null,{"style":{"backgroundColor":"var(--bg-surface)","borderTop":"1px solid var(--border-default)","padding":"56px 24px 80px"},"children":["$","div",null,{"style":{"maxWidth":1100,"margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":32,"marginTop":0},"children":"Read Next"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fill, minmax(280px, 1fr))","gap":24},"children":[["$","$L20","anant-ambani-weight-loss-transformation-explained",{"article":{"id":"anant-ambani-weight-loss-transformation-explained","title":"Anant Ambani's Weight Loss Transformation Explained","description":"Anant Ambani's dramatic weight loss became global news. Here's how he reportedly achieved his transformation, the methods involved, and what medical experts say about major weight loss journeys.","pillar":"weight-loss","difficulty":"Intermediate","author":"sam-okonkwo","readTime":7,"type":"Article","coverImage":"/images/weight-loss/anant-ambani-weight-loss-transformation-explained-1.png","coverImageAlt":"Person completing an intense outdoor workout at sunrise representing a major health transformation","href":"/weight-loss/anant-ambani-weight-loss-transformation-explained"}}],["$","$L20","ariana-grande-weight-loss-what-shes-said",{"article":{"id":"ariana-grande-weight-loss-what-shes-said","title":"Ariana Grande's Weight Loss: What She's Said","description":"Ariana Grande has addressed speculation about her body and health directly. Here's what she's actually said, how experts frame healthy body image, and what facts matter most.","pillar":"weight-loss","difficulty":"Beginner","author":"sam-okonkwo","readTime":6,"type":"Article","coverImage":"/images/weight-loss/ariana-grande-weight-loss-what-shes-said-1.png","coverImageAlt":"Person practicing healthy body image and self-acceptance in a calm, peaceful setting","href":"/weight-loss/ariana-grande-weight-loss-what-shes-said"}}],["$","$L20","calorie-deficit-guide",{"article":{"id":"calorie-deficit-guide","title":"How to Create a Calorie Deficit Safely and Sustainably","description":"A calorie deficit is required for fat loss, but starving yourself is counterproductive. Learn how to structure a sustainable approach.","pillar":"weight-loss","difficulty":"Beginner","author":"Dr. Sarah Okafor","readTime":6,"type":"Article","coverImage":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=640&h=360&fit=crop&auto=format","coverImageAlt":"Healthy meal with protein, vegetables, and complex carbohydrates","href":"/weight-loss/calorie-deficit-guide"}}]]}]]}]}]
+22:I[32637,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FAQAccordion"]
 1a:["$","div","2",{"style":{"borderTop":"1px solid var(--border-default)","paddingTop":16},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",4,": ","Full Body Cardiorespiratory Circuit"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Burpees"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","45 sec work, 15 sec rest"," (",60,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Jumping Jacks"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","45 sec work, 15 sec rest"," (",60,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"High Knees"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","45 sec work, 15 sec rest"," (",60,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Bear Crawl Hold"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[4," sets × ","45 sec work, 15 sec rest"," (",60,"s rest)"]}]]}]]}]]}]
 1b:["$","div","3",{"style":{"borderTop":"1px solid var(--border-default)","paddingTop":16},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",5,": ","Active Recovery Core Blast"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Bird-Dog"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","45 sec work, 15 sec rest"," (",45,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Glute Bridges"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","45 sec work, 15 sec rest"," (",45,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Deadbugs"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","45 sec work, 15 sec rest"," (",45,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Side Plank Hold"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","30 sec each side"," (",45,"s rest)"]}]]}]]}]]}]
-1c:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"<h2>The Science of EPOC</h2>\n<p>Excess Post-Exercise Oxygen Consumption (EPOC) is the physiological mechanism where your body works to restore itself to its pre-exercise state (cooling down, repairing tissues, replenishing energy). Because HIIT challenges both the anaerobic and aerobic pathways, it produces a <strong>substantially larger EPOC effect</strong> than steady-state cardio.</p>\n<h2>Weekly Progression Guide</h2>\n<ul>\n<li><strong>Week 1-2</strong>: Establish form. Pay attention to squat depth and plank alignment. Rest completely during rest intervals.</li>\n<li><strong>Week 3-4</strong>: Increase tempo. Try to perform more repetitions inside the active work windows while maintaining control.</li>\n</ul>"}}]
-1d:["$","$L21",null,{"items":[{"question":"How does HIIT burn fat?","answer":"HIIT burns high calories during exercise, and raises your resting oxygen consumption post-exercise (EPOC, or the 'afterburn effect'), meaning you burn additional calories for hours after training."},{"question":"Is HIIT safe for beginners?","answer":"HIIT is highly intense. If you are new to working out, start with lower-intensity bodyweight strength training first. Modify exercises (e.g., standard squats instead of jump squats) to build conditioning safely."}]}]
+21:T6be7,<h1>Bodyweight HIIT Fat Loss Circuit</h1>
+<p><em>A 4-week, 4x/week routine designed for Intermediate individuals looking to maximize fat loss, boost cardiovascular endurance, and elevate their metabolic rate — no equipment required.</em></p>
+<hr>
+<h2>🌟 Why This Program Works (The Benefits)</h2>
+<p>This program harnesses the most time-efficient fat loss mechanism in exercise science: <strong>Excess Post-Exercise Oxygen Consumption (EPOC)</strong>, commonly called the "afterburn effect." Unlike steady-state cardio, which burns calories only during the workout, HIIT elevates your metabolic rate for <strong>up to 24–48 hours post-session</strong> — meaning every session earns you bonus calorie burn while you rest, eat, and sleep.</p>
+<p>The bodyweight-only format removes all barriers. No gym membership. No equipment. No excuses. Sessions average <strong>22–28 minutes</strong> of structured work — short enough to be consistently achievable, intense enough to drive meaningful results.</p>
+<p>Here's what 4 weeks of this program delivers:</p>
+<ul>
+<li><strong>Accelerated fat loss</strong> — HIIT produces comparable or superior fat loss to moderate-intensity cardio in significantly less time, as shown by a landmark meta-analysis in the British Journal of Sports Medicine</li>
+<li><strong>Preserved muscle mass</strong> — the resistance component of bodyweight movements (push-ups, lunges, squats) ensures your body burns fat rather than muscle during the deficit</li>
+<li><strong>Dramatically improved cardiovascular fitness</strong> — your VO2 max (the gold standard of cardiorespiratory fitness) improves measurably in just 4 weeks of HIIT</li>
+<li><strong>Metabolic adaptation resistance</strong> — HIIT variability prevents your body from fully adapting to a fixed stimulus, keeping calorie burn elevated session after session</li>
+<li><strong>Zero equipment cost</strong> — everything in this program is performed with bodyweight, on any surface, anywhere</li>
+<li><strong>Mental resilience and discipline</strong> — completing challenging interval workouts rewires your relationship with discomfort, building confidence that carries into every area of life</li>
+</ul>
+<blockquote>
+<p>⚠️ <strong>Important:</strong> This is an Intermediate program. If you are new to exercise, start with the 4-Week Beginner Strength Program first and return to this program after building your foundational conditioning.</p>
+</blockquote>
+<hr>
+<h2>🗓️ Weekly Schedule Overview</h2>
+<p>This program runs <strong>4 days per week</strong> in a structured pattern that prevents back-to-back high-intensity sessions and includes an active recovery day on Day 5 to maintain movement without adding fatigue.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Day</th><th>Session</th></tr></thead><tbody><tr><td>Monday (Day 1)</td><td>Lower Body Conditioning</td></tr><tr><td>Tuesday (Day 2)</td><td>Upper Body &#x26; Core Endurance</td></tr><tr><td>Wednesday</td><td>Complete Rest</td></tr><tr><td>Thursday (Day 4)</td><td>Full Body Cardiorespiratory Circuit</td></tr><tr><td>Friday (Day 5)</td><td>Active Recovery Core Blast</td></tr><tr><td>Saturday &#x26; Sunday</td><td>Full Rest</td></tr></tbody></table>
+<blockquote>
+<p><strong>Coach's Note:</strong> The Wednesday full rest day is non-negotiable. Days 1 and 2 are consecutive high-intensity sessions — your body needs Wednesday to recover sufficiently before the Day 4 circuit. Skipping this rest turns manageable fatigue into accumulated stress that undermines performance and increases injury risk.</p>
+</blockquote>
+<hr>
+<h2>🏋️ The Workout Routine</h2>
+<p><strong>How to use the intervals:</strong> Unless otherwise stated, follow a <strong>40 seconds of work / 20 seconds of rest</strong> protocol for each exercise. Complete all 4 sets of one exercise before moving to the next. Use a timer app on your phone to track intervals accurately.</p>
+<hr>
+<h3>Day 1 — Lower Body Conditioning</h3>
+<hr>
+<h4>Exercise 1: Bodyweight Jump Squats</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet shoulder-width apart, toes slightly turned out.</li>
+<li>Lower into a squat by sitting back and down — thighs parallel to the floor or deeper.</li>
+<li>Explosively drive through both feet and jump as high as possible, extending through your hips, knees, and ankles fully.</li>
+<li>Land softly — heel-to-toe, absorbing the impact by bending your knees immediately into the next squat. Never land stiff-legged.</li>
+<li>Link the landing directly into the next rep. The goal is controlled aggression — maximum height with quiet landings.</li>
+<li><strong>Modification:</strong> If jumping is contraindicated (knee pain, early pregnancy, etc.), substitute a fast bodyweight squat with a strong heel drive at the top — same muscle pattern, no impact.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A four-frame sequence showing: (1) squat bottom position with thighs parallel; (2) explosive drive off the floor; (3) full airborne extension — hips, knees, and ankles extended; (4) soft landing with knees bent to absorb impact. Add a "land quietly" annotation on frame 4 and a "full extension" arrow on frame 3.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Reverse Lunges (Alternating)</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand upright with feet hip-width apart, hands on hips or extended for balance.</li>
+<li>Step your right foot back into a lunge — lowering your right knee toward the floor while keeping your left knee at 90° directly over your left ankle.</li>
+<li>Push off your right toes and return to standing. Immediately step your left foot back into the next lunge.</li>
+<li>Alternate legs in a continuous, controlled rhythm. Move at a pace that lets you accumulate as many clean reps as possible in 40 seconds.</li>
+<li>The reverse lunge is preferable to the forward lunge for high-rep intervals because it places less shear stress on the front knee and is easier to control fatigue-induced form breakdown.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view image showing the correct bottom position of the reverse lunge — rear knee hovering near the floor, front knee at 90° tracking directly over the front foot, torso upright. Include a before-and-after showing common fatigue error (front knee caving inward) vs. correct form.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: Speed Skater Jumps</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet hip-width apart. Hinge forward slightly at the hips for athletic stance.</li>
+<li>Jump laterally to the right, landing on your right foot while swinging your left leg behind your right and touching your left hand toward your right foot.</li>
+<li>Immediately bound laterally to the left, landing on your left foot and touching your right hand toward your left foot.</li>
+<li>Each lateral bound counts as 1 rep. Move with speed and control — the landing absorbs the impact, the bound generates the power.</li>
+<li>Land softly on a single foot, briefly loading the glute before pushing off. This is both a cardiovascular and hip abductor exercise.</li>
+<li><strong>Modification:</strong> If lateral jumps are too intense initially, perform lateral step-overs (step rather than bound) at a fast walking pace.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> An overhead or front-view sequence showing three frames: (1) launching from the left foot; (2) airborne mid-bound; (3) landing on the right foot with the left leg swept behind and the left hand reaching toward the right foot. Annotate the landing mechanics — single-leg soft landing, glute loaded.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Plank Jacks</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Begin in a high plank (push-up position) — hands directly under shoulders, body in a straight line from head to heels, core braced.</li>
+<li>Jump both feet out wide simultaneously — like a horizontal jumping jack — and immediately jump them back together.</li>
+<li>Keep your hips level throughout. Do not allow them to pike upward or sag downward as fatigue sets in.</li>
+<li>Move at a consistent, controlled pace. Prioritize keeping the core tight and hips stable over raw speed.</li>
+<li>Each out-and-in jump = 1 rep. This exercise taxes the shoulders (isometric), core (anti-rotation), and cardiovascular system simultaneously.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A top-down view or side-view split showing: Left — plank with feet together; Right — plank with feet jumped wide. Annotate the hip position in both frames to confirm they remain level and do not rise or drop during the movement.</p>
+</li>
+</ul>
+<hr>
+<h3>Day 2 — Upper Body &#x26; Core Endurance</h3>
+<hr>
+<h4>Exercise 1: Push-Ups (Tempo)</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Begin in a high plank — hands slightly wider than shoulder-width, fingers pointed forward, body in a straight line.</li>
+<li>Lower your chest toward the floor using a <strong>3-second count</strong> — this is the "tempo" element that dramatically increases time under tension.</li>
+<li>At the bottom, your chest should hover 1–2 cm off the floor. Do not let your chest crash down.</li>
+<li>Explosively press back up to the start — taking only 1 second for the upward phase.</li>
+<li>In 40 seconds of tempo push-ups, quality beats quantity. 6 perfect reps beat 15 sloppy ones.</li>
+<li><strong>Modification:</strong> Perform from the knees if full push-ups at tempo are not yet achievable. Keep the straight-line alignment from knee to shoulder.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view three-panel sequence: (1) top position with arms extended; (2) halfway down at the 1.5-second mark (showing the slow descent); (3) bottom position with chest near the floor. Include a "3 seconds down, 1 second up" timer graphic to make the tempo clear.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Mountain Climbers</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Begin in a high plank position — shoulders over wrists, core tight, body in a straight line.</li>
+<li>Drive your right knee toward your right elbow or chest, keeping your foot off the floor.</li>
+<li>Quickly switch — extend the right leg back while simultaneously driving the left knee forward.</li>
+<li>Alternate legs rapidly in a running motion, keeping your hips low and level. This is the key coaching cue: <strong>hips low, not piked up.</strong></li>
+<li>Move as fast as you can while maintaining the plank position. If your hips rise as you fatigue, slow down rather than sacrificing form.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view action photo showing the mountain climber position mid-movement — one knee driven toward the chest, the opposite leg fully extended, hips level with the plank line. Include a contrast inset showing the most common mistake: hips piked high in the air.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: Pike Push-Ups</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Begin in a Downward Dog position — hips high, forming an inverted V shape, hands and feet on the floor.</li>
+<li>Bend your elbows and lower the top of your head toward the floor between your hands — this is a shoulder-dominant movement, not a chest press.</li>
+<li>Press back up through the palms to return to the inverted V position. That is 1 rep.</li>
+<li>The higher your hips are positioned, the more vertical the pressing angle becomes — and the more shoulder work is required.</li>
+<li>This exercise builds shoulder pressing strength and endurance without any equipment, and serves as a progression toward handstand push-ups.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view two-panel image: Left shows the top (inverted V) position with hips high; Right shows the bottom position with head lowered between the hands. Draw the torso angle in both frames with a line to demonstrate how the upper body becomes more vertical than in a standard push-up.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Bicycle Crunches</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 40 seconds work / 20 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Lie on your back with hands lightly behind your head (do not pull on the neck), knees bent at 90°, feet off the floor.</li>
+<li>Simultaneously rotate your right elbow toward your left knee while extending the right leg straight out.</li>
+<li>Without pausing, rotate to the opposite side — left elbow toward right knee, left leg extending.</li>
+<li>The movement is a smooth rotation through the torso — not a forward crunch. Think "elbow to knee" not "head to knee."</li>
+<li>Pace yourself — controlled, deliberate repetitions (not frantic cycling) produce far greater oblique activation.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A top-down or 3/4 view showing the bicycle crunch at the moment of full rotation — right elbow driving toward the bent left knee, right leg extended. Add an annotation distinguishing the oblique rotation (correct) from a straight forward crunch (incorrect) to clarify the movement intention.</p>
+</li>
+</ul>
+<hr>
+<h3>Day 4 — Full Body Cardiorespiratory Circuit</h3>
+<p><em>Day 4 uses a slightly shorter work interval with a shorter rest (45 sec on / 15 sec off) to maximize cardiovascular intensity. This is your hardest session of the week.</em></p>
+<hr>
+<h4>Exercise 1: Burpees</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 45 seconds work / 15 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet shoulder-width apart.</li>
+<li>Drop both hands to the floor in front of your feet and jump both feet back into a high plank position.</li>
+<li>Perform one push-up (or skip the push-up for a modified burpee).</li>
+<li>Jump both feet forward to your hands.</li>
+<li>Explosively jump upward, extending your arms overhead, and clap at the top.</li>
+<li>Land softly and link directly into the next rep. Each complete cycle = 1 burpee.</li>
+<li>Pace yourself across all 4 sets — a consistent 8–10 burpees per 45 seconds beats going all out for 1 set and collapsing for 3.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A 5-frame sequence showing: (1) standing start; (2) hands on floor, feet jumping back; (3) plank/push-up position; (4) feet jumping forward; (5) explosive upright jump with arms overhead. Place a "1 rep cycle" bracket across all 5 frames to make the complete movement clear.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Jumping Jacks</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 45 seconds work / 15 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet together, arms at your sides.</li>
+<li>Jump both feet out to the sides while simultaneously raising both arms overhead until your hands meet.</li>
+<li>Jump feet back together while lowering arms. That is 1 rep.</li>
+<li>In HIIT context, jumping jacks serve as a <strong>lower-intensity active interval</strong> — placed here between burpees and high knees to allow partial recovery while maintaining elevated heart rate.</li>
+<li>Move at a brisk, consistent pace. Focus on steady breathing — in through the nose, out through the mouth.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A front-facing two-panel image: Left — starting position with feet together, arms at sides; Right — peak position with feet wide and arms overhead, hands meeting above the head. Keep the image clean and clear as a basic movement reference.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: High Knees</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 45 seconds work / 15 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand upright with arms bent at 90°, as if running.</li>
+<li>Begin running in place, but drive each knee as high as possible — ideally to hip height or above — with each stride.</li>
+<li>Land on the ball of your foot (not flat-footed) with a quick, rhythmic turnover.</li>
+<li>Drive opposing arm and leg together — right knee up as left arm comes forward — for coordinated, full-body engagement.</li>
+<li>This movement elevates your heart rate rapidly and engages hip flexors, quads, and core simultaneously. Push the pace while maintaining the knee height.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view action photo showing the high knee peak position — one knee driven to hip height, opposite arm forward, body upright. Annotate the knee height target (hip line) and the forefoot landing point to reinforce both key coaching cues simultaneously.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Bear Crawl Hold</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 4 sets × 45 seconds work / 15 seconds rest | 60-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Begin on all fours — hands under shoulders, knees under hips. Lift your knees approximately 2–3 cm off the floor. This is the Bear Crawl position.</li>
+<li>Hold this position for the full 45 seconds, maintaining the hover. Your weight is distributed through your hands and toes.</li>
+<li>To increase difficulty: slowly move forward one step (right hand + left foot), then back (left hand + right foot) while maintaining the knee hover.</li>
+<li>The hold demands isometric core stability, shoulder endurance, and hip flexor strength simultaneously — and is much harder than it looks.</li>
+<li>Keep your back flat, not rounded. Do not let your hips rise into the air.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view photo of the bear crawl hold position — knees hovering 2–3 cm above the floor, back flat, weight through hands and balls of feet. Annotate the knee height with a measurement bracket and show the spine alignment as a straight horizontal line from shoulders to hips.</p>
+</li>
+</ul>
+<hr>
+<h3>Day 5 — Active Recovery Core Blast</h3>
+<p><em>Day 5 is deliberately lower intensity. These exercises build core stability and hip strength without adding cardiovascular fatigue. Do not skip this session — it supports recovery and builds the foundational strength that makes Days 1, 2, and 4 more effective.</em></p>
+<hr>
+<h4>Exercise 1: Bird-Dog</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 45 seconds work / 15 seconds rest | 45-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Begin on all fours — hands under shoulders, knees under hips, spine neutral.</li>
+<li>Simultaneously extend your right arm straight forward and your left leg straight back — reaching long in both directions.</li>
+<li>Hold for 2 seconds at extension, feeling the anti-rotation tension through your core.</li>
+<li>Return both limbs to the floor with control. Switch: extend left arm and right leg.</li>
+<li>The goal is zero rotation in the hips or spine — a glass of water placed on your lower back should not spill.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view image at the peak of the bird-dog extension — right arm and left leg fully extended and parallel to the floor, spine neutral. Add a "no rotation" annotation at the hip and a level-line graphic along the back to illustrate the stability standard.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Glute Bridges</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 45 seconds work / 15 seconds rest | 45-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Lie on your back with knees bent, feet flat on the floor hip-width apart, arms relaxed at your sides.</li>
+<li>Drive through both heels and lift your hips toward the ceiling until your body forms a straight line from knees to shoulders.</li>
+<li>Squeeze your glutes hard at the top — hold for 2 seconds before lowering.</li>
+<li>Lower your hips back to the floor with control, briefly touching down before the next rep.</li>
+<li>Focus on glute contraction at the top, not lower back extension. If you feel it predominantly in your lower back, move your feet slightly further from your body.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view image showing the peak glute bridge position — hips lifted, body forming a straight diagonal from knees to shoulders. Annotate the glute contraction point and contrast the correct "flat bridge" with the incorrect "arched lower back" variant to help users feel the difference.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: Deadbugs</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 45 seconds work / 15 seconds rest | 45-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Lie on your back, arms extended straight up toward the ceiling, hips and knees bent to 90° — shins parallel to the floor. Press your lower back firmly into the floor throughout.</li>
+<li>Simultaneously lower your right arm overhead toward the floor and extend your left leg straight out — keeping it hovering above the floor.</li>
+<li>Return both limbs to the start position. Switch: lower left arm, extend right leg.</li>
+<li>The critical coaching cue: <strong>lower back must remain pressed into the floor at all times.</strong> If your back arches, you have exceeded your core stability. Reduce the range of motion of the extending limbs.</li>
+<li>Move slowly and deliberately — this is a precision movement, not a speed exercise.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view top-down diagram showing the start position (arms up, legs at 90°) and the movement position (one arm extended overhead, opposite leg extending outward) with a clear lower-back-to-floor contact arrow as the central coaching cue. Include a magnified inset of the lower back area confirming floor contact.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Side Plank Hold</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 30 seconds each side | 45-second rest between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Lie on your side with your elbow directly beneath your shoulder and feet stacked (or staggered for beginners).</li>
+<li>Lift your hips off the floor, forming a straight diagonal line from head to feet. Your body should have no sag at the hips and no pike.</li>
+<li>Hold the position, breathing steadily. Engage the oblique (side core) on the working side — you should feel the effort on the underside of your torso.</li>
+<li>Keep your hips stacked — the top hip should not rotate forward or backward.</li>
+<li><strong>Modification:</strong> Perform from the knee (bottom knee on the floor) if the full side plank is not yet stable.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A front-facing photo of a side plank from the side — perfect straight-line alignment from head through hips to feet. Show a comparison of the full side plank vs. the modified knee-down variant side by side so users can select the appropriate level.</p>
+</li>
+</ul>
+<hr>
+<h2>💡 Progression &#x26; Pro-Tips</h2>
+<h3>How to Progress</h3>
+<p>This program uses <strong>interval density progression</strong> — you make it harder by fitting more reps into the same time window, then by shortening rest periods.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Week</th><th>Focus</th></tr></thead><tbody><tr><td><strong>Week 1</strong></td><td>Learn the movements. Aim for consistent, controlled effort within each work interval. It is acceptable to slow down or take a brief pause within a work interval if form breaks down. Establish your rep baseline for each exercise.</td></tr><tr><td><strong>Week 2</strong></td><td>Try to beat your Week 1 rep count in each work interval by 1–2 reps. If you cannot, your form from Week 1 needed improvement — focus on quality before quantity.</td></tr><tr><td><strong>Week 3</strong></td><td>Reduce the inter-exercise rest from 60 seconds to 45 seconds on Days 1, 2, and 4. Keep the within-interval rest the same (20 sec / 15 sec). Day 5 remains unchanged.</td></tr><tr><td><strong>Week 4</strong></td><td>Attempt to add a 5th round to each Day 1, 2, and 4 exercise (5 sets instead of 4). Only do this if your form in set 4 remains sharp. Alternatively, on Day 4, push the work-to-rest ratio to 50 sec work / 10 sec rest for each exercise.</td></tr></tbody></table>
+<hr>
+<h3>Coach's Notes from Dr. Sarah Okafor</h3>
+<p><strong>On the EPOC science:</strong> The afterburn effect is real, but it's often overstated in marketing. A high-intensity HIIT session elevates your metabolism for approximately <strong>12–24 hours</strong> post-workout — with the largest EPOC contribution in the first 2–3 hours. What it means practically: don't under-eat after a HIIT session. Your body is still burning fuel even as you rest.</p>
+<p><strong>On breathing:</strong> You will feel like you cannot breathe during these intervals. This is the signal that HIIT is working — you are creating an oxygen debt that your body has to repay. Resist the urge to stop during the work interval just because breathing feels uncomfortable. The moment your form breaks down (not just your breathing), that is the right time to pause.</p>
+<p><strong>On landing mechanics:</strong> The most common HIIT injury is not muscular — it's impact-related. Soft landings are non-negotiable on every jump: land toe-to-heel, knees bent, absorbing force through the entire lower chain. Never land stiff-legged. If you cannot land quietly enough that someone in the next room wouldn't hear it, slow down.</p>
+<p><strong>Common mistake to avoid:</strong> Choosing pace over form. In interval training, there's enormous pressure to "keep going" at maximum speed. But a mountain climber with piked hips is just shoulder strain waiting to happen. <strong>Slow is smooth, smooth is fast</strong> — consistent, technically correct reps build the conditioning and the physical capacity. Sloppy speed builds injuries.</p>
+<hr>
+<p><em>This program was designed by Dr. Sarah Okafor, MD, MSc Sports Medicine. Always consult a qualified healthcare professional before beginning a new exercise program, especially if you have cardiovascular concerns, joint issues, or are new to high-intensity exercise.</em></p>1c:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$21"}}]
+1d:["$","$L22",null,{"items":[{"question":"How does HIIT burn fat?","answer":"HIIT burns high calories during exercise, and raises your resting oxygen consumption post-exercise (EPOC, or the 'afterburn effect'), meaning you burn additional calories for hours after training."},{"question":"Is HIIT safe for beginners?","answer":"HIIT is highly intense. If you are new to working out, start with lower-intensity bodyweight strength training first. Modify exercises (e.g., standard squats instead of jump squats) to build conditioning safely."}]}]
 1e:["$","section",null,{"aria-label":"Article sources","style":{"marginTop":"2.5rem","paddingTop":"1.5rem","borderTop":"1px solid var(--border-default)"},"children":[["$","h3",null,{"style":{"fontSize":"0.8125rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12,"marginTop":0},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":6,"margin":0},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991639/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"Boutcher SH (2011). High-intensity intermittent exercise and fat loss. Journal of Obesity."}]}]]}]]}]
 1f:["$","aside",null,{"role":"note","aria-label":"Medical Disclaimer","style":{"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0","padding":"16px 20px","marginTop":"2rem","display":"flex","gap":12},"children":[["$","div",null,{"style":{"flexShrink":0,"paddingTop":2},"children":["$","$L13",null,{"ref":"$undefined","iconNode":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"className":"lucide-triangle-alert","size":16,"style":{"color":"var(--callout-disclaimer-border)"}}]}],["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6,"margin":0},"children":[["$","strong",null,{"children":"Medical Disclaimer: "}],"The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen. ",["$","$L12",null,{"href":"/disclaimer","style":{"color":"var(--callout-disclaimer-border)","textDecoration":"underline"},"children":"Read our full disclaimer."}]]}]]}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-22:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+23:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
 8:null
-d:[["$","title","0",{"children":"Bodyweight HIIT Fat Loss Circuit"}],["$","meta","1",{"name":"description","content":"A fast-paced, high-intensity interval training circuit designed to maximize caloric burn and metabolic rate in under 25 minutes."}],["$","meta","2",{"property":"og:title","content":"Bodyweight HIIT Fat Loss Circuit"}],["$","meta","3",{"property":"og:description","content":"A fast-paced, high-intensity interval training circuit designed to maximize caloric burn and metabolic rate in under 25 minutes."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=640&h=360&fit=crop&auto=format"}],["$","meta","5",{"property":"og:image:alt","content":"Group of athletes performing synchronization burpees during high-intensity training"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-02-28T00:00:00.000Z"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Bodyweight HIIT Fat Loss Circuit"}],["$","meta","10",{"name":"twitter:description","content":"A fast-paced, high-intensity interval training circuit designed to maximize caloric burn and metabolic rate in under 25 minutes."}],["$","meta","11",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=640&h=360&fit=crop&auto=format"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L22","13",{}]]
+d:[["$","title","0",{"children":"Bodyweight HIIT Fat Loss Circuit"}],["$","meta","1",{"name":"description","content":"A fast-paced, high-intensity interval training circuit designed to maximize caloric burn and metabolic rate in under 25 minutes."}],["$","meta","2",{"property":"og:title","content":"Bodyweight HIIT Fat Loss Circuit"}],["$","meta","3",{"property":"og:description","content":"A fast-paced, high-intensity interval training circuit designed to maximize caloric burn and metabolic rate in under 25 minutes."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=640&h=360&fit=crop&auto=format"}],["$","meta","5",{"property":"og:image:alt","content":"Group of athletes performing synchronization burpees during high-intensity training"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-02-28T00:00:00.000Z"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Bodyweight HIIT Fat Loss Circuit"}],["$","meta","10",{"name":"twitter:description","content":"A fast-paced, high-intensity interval training circuit designed to maximize caloric burn and metabolic rate in under 25 minutes."}],["$","meta","11",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=640&h=360&fit=crop&auto=format"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L23","13",{}]]

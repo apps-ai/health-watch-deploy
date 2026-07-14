@@ -6,10 +6,10 @@
 a:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
 c:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
 e:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
-:HL["/_next/static/chunks/0bq3nkg24o9ov.css","style"]
+:HL["/_next/static/chunks/1cs_jij9gl2bf.css","style"]
 :HL["/_next/static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","weight-loss","4-week-beginner-strength-program"],"q":"","i":false,"f":[[["",{"children":[["pillar","weight-loss","d",null],{"children":[["slug","4-week-beginner-strength-program","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0bq3nkg24o9ov.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0-ogdax7fbfue.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qwe7f-u1ib-7.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0bq3nkg24o9ov.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ioRpH5ggUUuDcUg58NJYV"}
+0:{"P":null,"c":["","weight-loss","4-week-beginner-strength-program"],"q":"","i":false,"f":[[["",{"children":[["pillar","weight-loss","d",null],{"children":[["slug","4-week-beginner-strength-program","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1cs_jij9gl2bf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_68444dea-module__o5h5Ga__variable inter_e8ba8539-module__EjiSGW__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-brand-primary focus:text-text-inverse focus:px-4 focus:py-2 focus:rounded-lg","children":"Skip to main content"}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0-ogdax7fbfue.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qwe7f-u1ib-7.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1cs_jij9gl2bf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gjgWkArlVo08qc2uIQ1Vs"}
 f:[]
 9:"$Wf"
 10:I[3374,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js"],"Header"]
@@ -24,14 +24,360 @@ f:[]
 15:["$","div",null,{"className":"hide-on-mobile","children":["$","$L19",null,{"headings":[]}]}]
 16:["$","article",null,{"children":[false,["$","div",null,{"style":{"padding":24,"backgroundColor":"var(--bg-surface)","borderRadius":"var(--radius-lg)","border":"1px solid var(--border-default)","marginBottom":32},"children":[["$","h3",null,{"style":{"fontFamily":"var(--font-heading)","fontSize":"1.25rem","color":"var(--text-primary)","marginBottom":12,"marginTop":0},"children":"💪 Workout Program"}],["$","p",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)","marginBottom":20},"children":["Duration: ",4," Weeks | Frequency: ",3," sessions/week | Equipment: ","dumbbells, resistance bands, pull-up bar (optional)"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":24},"children":[["$","div","0",{"style":{"borderTop":"none","paddingTop":0},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",1,": ","Push Day"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Dumbbell Chest Press"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","10-12"," (",90,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Overhead Dumbbell Press"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","10-12"," (",90,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Dumbbell Lateral Raise"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","12-15"," (",60,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Tricep Dumbbell Kickback"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","12-15"," (",60,"s rest)"]}]]}]]}]]}],["$","div","1",{"style":{"borderTop":"1px solid var(--border-default)","paddingTop":16},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",3,": ","Pull Day"]}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Dumbbell Row"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","10-12"," (",90,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Band Pull-Apart"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","15-20"," (",60,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Dumbbell Bicep Curl"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","12-15"," (",60,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Face Pull (band)"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","15-20"," (",60,"s rest)"]}]]}]]}]]}],["$","div","2",{"style":{"borderTop":"1px solid var(--border-default)","paddingTop":16},"children":[["$","h4",null,{"style":{"fontWeight":600,"fontSize":"1.125rem","color":"var(--brand-primary)","marginBottom":12,"marginTop":0},"children":["Day ",5,": ","Legs & Core"]}],"$L1a"]}]]}]]}],false,false,false,"$L1b","$L1c","$L1d","$L1e"]}]
 17:["$","div",null,{"className":"hide-on-mobile"}]
-18:["$","section",null,{"style":{"backgroundColor":"var(--bg-surface)","borderTop":"1px solid var(--border-default)","padding":"56px 24px 80px"},"children":["$","div",null,{"style":{"maxWidth":1100,"margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":32,"marginTop":0},"children":"Read Next"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fill, minmax(280px, 1fr))","gap":24},"children":[["$","$L1f","calorie-deficit-guide",{"article":{"id":"calorie-deficit-guide","title":"How to Create a Calorie Deficit Safely and Sustainably","description":"A calorie deficit is required for fat loss, but starving yourself is counterproductive. Learn how to structure a sustainable approach.","pillar":"weight-loss","difficulty":"Beginner","author":"Dr. Sarah Okafor","readTime":6,"type":"Article","coverImage":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=640&h=360&fit=crop&auto=format","coverImageAlt":"Healthy meal with protein, vegetables, and complex carbohydrates","href":"/weight-loss/calorie-deficit-guide"}}],["$","$L1f","sustainable-weight-loss-without-counting",{"article":{"id":"sustainable-weight-loss-without-counting","title":"Sustainable Weight Loss Without Calorie Counting: What the Science Actually Says","description":"Obsessive calorie counting often leads to a worse relationship with food. Here are the evidence-backed strategies that work long-term without a spreadsheet.","pillar":"weight-loss","difficulty":"Beginner","author":"sam-okonkwo","readTime":8,"type":"Article","coverImage":"https://pub-ba8dd6d469be48588623f9740cb624a9.r2.dev/images/weight-loss/sustainable-weight-loss-cover.png","coverImageAlt":"Healthy balanced meal with vegetables, protein, and whole grains","href":"/weight-loss/sustainable-weight-loss-without-counting"}}]]}]]}]}]
-20:I[32637,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FAQAccordion"]
+18:["$","section",null,{"style":{"backgroundColor":"var(--bg-surface)","borderTop":"1px solid var(--border-default)","padding":"56px 24px 80px"},"children":["$","div",null,{"style":{"maxWidth":1100,"margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":32,"marginTop":0},"children":"Read Next"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fill, minmax(280px, 1fr))","gap":24},"children":[["$","$L1f","anant-ambani-weight-loss-transformation-explained",{"article":{"id":"anant-ambani-weight-loss-transformation-explained","title":"Anant Ambani's Weight Loss Transformation Explained","description":"Anant Ambani's dramatic weight loss became global news. Here's how he reportedly achieved his transformation, the methods involved, and what medical experts say about major weight loss journeys.","pillar":"weight-loss","difficulty":"Intermediate","author":"sam-okonkwo","readTime":7,"type":"Article","coverImage":"/images/weight-loss/anant-ambani-weight-loss-transformation-explained-1.png","coverImageAlt":"Person completing an intense outdoor workout at sunrise representing a major health transformation","href":"/weight-loss/anant-ambani-weight-loss-transformation-explained"}}],["$","$L1f","ariana-grande-weight-loss-what-shes-said",{"article":{"id":"ariana-grande-weight-loss-what-shes-said","title":"Ariana Grande's Weight Loss: What She's Said","description":"Ariana Grande has addressed speculation about her body and health directly. Here's what she's actually said, how experts frame healthy body image, and what facts matter most.","pillar":"weight-loss","difficulty":"Beginner","author":"sam-okonkwo","readTime":6,"type":"Article","coverImage":"/images/weight-loss/ariana-grande-weight-loss-what-shes-said-1.png","coverImageAlt":"Person practicing healthy body image and self-acceptance in a calm, peaceful setting","href":"/weight-loss/ariana-grande-weight-loss-what-shes-said"}}],["$","$L1f","calorie-deficit-guide",{"article":{"id":"calorie-deficit-guide","title":"How to Create a Calorie Deficit Safely and Sustainably","description":"A calorie deficit is required for fat loss, but starving yourself is counterproductive. Learn how to structure a sustainable approach.","pillar":"weight-loss","difficulty":"Beginner","author":"Dr. Sarah Okafor","readTime":6,"type":"Article","coverImage":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=640&h=360&fit=crop&auto=format","coverImageAlt":"Healthy meal with protein, vegetables, and complex carbohydrates","href":"/weight-loss/calorie-deficit-guide"}}]]}]]}]}]
+21:I[32637,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FAQAccordion"]
 1a:["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":10},"children":[["$","div","0",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Dumbbell Goblet Squat"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","12-15"," (",90,"s rest)"]}]]}],["$","div","1",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Romanian Deadlift"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","10-12"," (",90,"s rest)"]}]]}],["$","div","2",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Dumbbell Lunges"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","10 each leg"," (",60,"s rest)"]}]]}],["$","div","3",{"style":{"display":"flex","justifyContent":"space-between","alignItems":"baseline","gap":16},"children":[["$","span",null,{"style":{"fontSize":"0.9375rem","color":"var(--text-primary)","fontWeight":500},"children":"Plank Hold"}],["$","span",null,{"style":{"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[3," sets × ","30-45 sec"," (",60,"s rest)"]}]]}]]}]
-1b:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"<h2>How to Use This Program</h2>\n<p>Each week, aim to increase either the weight or the reps by a small amount. This is progressive overload — the most evidence-backed principle in strength training.</p>\n<p><strong>Week 1–2</strong>: Focus on form. Use lighter weights and ensure a full range of motion.\n<strong>Week 3–4</strong>: Increase weight by 5–10% where comfortable. Add a rep to each set.</p>\n<h2>Rest and Recovery</h2>\n<p>Rest days are not optional. Your muscles grow during recovery, not during the workout itself. Sleep 7–9 hours and ensure adequate protein intake (see our protein guide).</p>"}}]
-1c:["$","$L20",null,{"items":[{"question":"What weight should I start with?","answer":"Choose a weight where the last 2 reps of each set feel challenging but form stays perfect. Start lighter than you think you need to — progressive overload means adding weight gradually week by week."},{"question":"Can I do this 4 days a week instead?","answer":"Beginners benefit most from 3 days with full rest days between sessions. The rest days are when muscle growth actually happens. Add a 4th day in weeks 3–4 if recovery feels easy."}]}]
+20:T4fd4,<h1>4-Week Full Body Strength Program for Beginners</h1>
+<p><em>A 4-week, 3x/week routine designed for Beginner individuals looking to build full-body strength, improve body composition, and establish lasting lifting habits.</em></p>
+<hr>
+<h2>🌟 Why This Program Works (The Benefits)</h2>
+<p>This program is built on the most well-tested principle in strength science: <strong>progressive overload</strong>. By starting with manageable loads and systematically increasing the challenge week by week, your muscles are given a consistent, growing stimulus to adapt. Unlike programs that throw beginners into advanced splits too early, this Push / Pull / Legs structure ensures every major muscle group receives adequate frequency and recovery.</p>
+<p>Here's exactly what you'll gain over 4 weeks:</p>
+<ul>
+<li><strong>Increased lean muscle mass</strong> — even in the first 4 weeks, neural adaptations and early hypertrophy begin to reshape your physique</li>
+<li><strong>Elevated resting metabolic rate</strong> — more muscle tissue means more calories burned at rest, every hour of every day</li>
+<li><strong>Stronger foundational movement patterns</strong> — the squat, hinge, press, and pull patterns in this plan are the basis of all advanced training</li>
+<li><strong>Improved bone density</strong> — resistance training is one of the most effective evidence-based interventions for long-term skeletal health</li>
+<li><strong>Better posture and injury resilience</strong> — by balancing push and pull volume, this program corrects the forward-dominant weakness that causes shoulder and neck problems</li>
+<li><strong>Confidence in the gym</strong> — after 4 weeks you will know how every major piece of equipment works and how to use it safely</li>
+<li><strong>Weight loss support</strong> — strength training has been shown in multiple meta-analyses to reduce fat mass while preserving muscle, outperforming cardio alone for body composition change</li>
+</ul>
+<hr>
+<h2>🗓️ Weekly Schedule Overview</h2>
+<p>The program runs on an <strong>alternating day structure</strong>: train, rest, train, rest, train, rest, rest. This guarantees 48+ hours of recovery between sessions, which is the minimum required for muscle protein synthesis to complete.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Day</th><th>Session</th></tr></thead><tbody><tr><td>Monday (Day 1)</td><td>Push Day — Chest, Shoulders, Triceps</td></tr><tr><td>Tuesday</td><td>Rest or light walking</td></tr><tr><td>Wednesday (Day 3)</td><td>Pull Day — Back, Biceps, Rear Delts</td></tr><tr><td>Thursday</td><td>Rest or light walking</td></tr><tr><td>Friday (Day 5)</td><td>Legs &#x26; Core — Quads, Hamstrings, Glutes, Abs</td></tr><tr><td>Saturday</td><td>Optional active recovery (mobility, walking)</td></tr><tr><td>Sunday</td><td>Full rest</td></tr></tbody></table>
+<blockquote>
+<p><strong>Coach's Note:</strong> If Monday-Wednesday-Friday doesn't fit your schedule, any 3 non-consecutive days work equally well (e.g., Tuesday-Thursday-Saturday). What matters is maintaining the rest days between sessions.</p>
+</blockquote>
+<hr>
+<h2>🏋️ The Workout Routine</h2>
+<h3>Day 1 — Push Day (Chest, Shoulders, Triceps)</h3>
+<p><em>What you'll need: a pair of dumbbells and a flat surface (bench, floor, or stability ball).</em></p>
+<hr>
+<h4>Exercise 1: Dumbbell Chest Press</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 10–12 reps | Rest: 90 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Lie on your back on a flat bench or on the floor. If on the floor, your elbows will contact the ground at the bottom — this is fine for beginners.</li>
+<li>Hold a dumbbell in each hand at chest level, elbows at roughly 45° from your body (not flared out at 90°).</li>
+<li>Press both dumbbells up toward the ceiling in a slight arc until your arms are fully extended above your chest. Do not lock out your elbows aggressively.</li>
+<li>Lower the dumbbells with control — take 2 seconds on the way down — until your elbows reach chest level or contact the floor.</li>
+<li>Drive the dumbbells back up, exhaling as you press. Think of "pressing yourself into the bench" rather than pushing the weights away.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A split-view diagram showing the start position (dumbbells at chest, elbows at 45°) and the top position (arms extended, dumbbells above sternum). Include a top-down view showing the 45° elbow angle vs. the incorrect 90° flared elbow position as a coaching contrast.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Overhead Dumbbell Press</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 10–12 reps | Rest: 90 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Sit upright on a bench with back support, or stand with feet shoulder-width apart.</li>
+<li>Hold a dumbbell in each hand at shoulder height, palms facing forward, elbows at roughly 90°.</li>
+<li>Press both dumbbells directly overhead until your arms are fully extended. Avoid excessive arching in the lower back — brace your core throughout.</li>
+<li>Lower the dumbbells slowly back to shoulder height (2-second lowering phase).</li>
+<li>Keep the weights stacked over your wrists and forearms vertical throughout the movement.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view image of the exercise showing the start position (dumbbells at ear height, forearms vertical) and the lockout position (arms overhead, core braced, no lower back arch). Include a red-zone annotation showing the common mistake of leaning back excessively.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: Dumbbell Lateral Raise</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 12–15 reps | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet shoulder-width apart, a light dumbbell in each hand at your sides. This exercise requires much lighter weight than you expect.</li>
+<li>With a very slight bend in the elbows, raise both arms out to the sides until they are parallel to the floor (no higher than shoulder height).</li>
+<li>At the top, tilt the dumbbell slightly so the pinky side is marginally higher than the thumb — this maximally activates the lateral deltoid.</li>
+<li>Lower with control over 2–3 seconds. Do not let gravity drop the weights.</li>
+<li>Avoid shrugging your shoulders up toward your ears — keep your traps relaxed throughout.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A front-facing photo showing the correct arm path (arms rising straight to the sides to shoulder height) with a small pinky-up tilt annotation. Include a contrast image showing the common mistake of raising arms forward (front delt dominant) vs. correct side-lateral path.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Tricep Dumbbell Kickback</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 12–15 reps | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Hinge forward at the hips until your torso is roughly parallel to the floor. Support yourself with your non-working hand on a bench or knee.</li>
+<li>Hold a dumbbell in your working hand with your upper arm pinned against your side and your elbow bent at 90°.</li>
+<li>Extend your forearm straight back until your arm is fully extended and parallel to the floor.</li>
+<li>Squeeze the tricep hard at full extension — hold for 1 second.</li>
+<li>Return the forearm to 90° with control. The upper arm stays completely still throughout — only the forearm moves.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view sequence showing the start position (elbow bent at 90°, upper arm fixed) and the extended position (arm fully straightened, tricep contracted). Add an annotation confirming the upper arm does not move — only the forearm rotates.</p>
+</li>
+</ul>
+<hr>
+<h3>Day 3 — Pull Day (Back, Biceps, Rear Delts)</h3>
+<p><em>What you'll need: a pair of dumbbells and a resistance band.</em></p>
+<hr>
+<h4>Exercise 1: Dumbbell Row</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 10–12 reps | Rest: 90 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Hinge forward at the hips with a flat spine — about 45–60° from vertical. Hold a dumbbell in your right hand with your arm hanging straight down.</li>
+<li>Brace your core. Drive your right elbow up and back toward the ceiling, rowing the dumbbell toward your lower ribcage.</li>
+<li>At the top, squeeze your shoulder blade toward your spine for 1 second.</li>
+<li>Lower the dumbbell with control. That is 1 rep.</li>
+<li>Complete all reps on one side before switching. You can support your non-working hand on a bench or thigh.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A 3/4 rear-angle view of a person performing a single-arm row, with the elbow driving up toward the ceiling and the shoulder blade visibly contracting. Include an elbow-path arrow showing the correct "elbow goes to ceiling" trajectory vs. the incorrect "elbow goes out to side" mistake.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Band Pull-Apart</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 15–20 reps | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Hold a resistance band with both hands, arms extended straight out in front of you at shoulder height. Grip the band about shoulder-width apart.</li>
+<li>Keeping your arms straight (slight elbow bend only), pull the band apart by driving both hands out to the sides — squeezing your rear deltoids and upper back as the band touches your chest.</li>
+<li>Pause for 1 second at full extension, feeling the mid-back contraction.</li>
+<li>Slowly return your arms to the starting position. That is 1 rep.</li>
+<li>The resistance should be light enough that you can complete all reps with consistent form — this is a high-rep, muscle-activation exercise, not a heavy load exercise.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A front-facing before/after sequence showing: Left — arms extended forward holding band; Right — band pulled to chest with arms spread wide, shoulder blades squeezed together. Annotate the rear delt and rhomboid engagement area on the right image.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: Dumbbell Bicep Curl</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 12–15 reps | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet shoulder-width apart, a dumbbell in each hand, arms hanging at your sides with palms facing forward.</li>
+<li>Keeping your elbows pinned at your sides, curl both dumbbells up toward your shoulders in a smooth arc.</li>
+<li>At the top, supinate slightly — rotate your pinky finger upward to maximize bicep peak contraction.</li>
+<li>Lower slowly over 2–3 seconds. Resist the urge to let gravity drop the weight.</li>
+<li>Avoid swinging the torso backward to gain momentum — if you need to, the weight is too heavy. Drop down.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view image showing the full curl range — from fully extended arm at bottom to dumbbell near the shoulder at top — with a stability annotation on the elbow position (pinned to the side, not drifting forward). Highlight the supination (palm rotation) at the top position.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Face Pull (Band)</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 15–20 reps | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Anchor a resistance band at face height — a door anchor, a squat rack, or any stable anchor point at roughly eye level.</li>
+<li>Grip the band with both hands, palms facing the floor. Step back until there is tension in the band.</li>
+<li>Pull the band toward your face, driving your elbows out and back, finishing with your hands beside your ears and elbows flared wide.</li>
+<li>Pause at full range — you should feel a significant contraction in your rear delts and upper traps.</li>
+<li>Return with control. This exercise directly counteracts the forward-rounded posture caused by too much pressing relative to pulling.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-angle sequence showing: start position (arms extended toward anchor) and finish position (elbows flared wide, hands at ear level). Annotate the elbow path as the key coaching cue — elbows should finish higher than the wrists and pointing outward, not behind.</p>
+</li>
+</ul>
+<hr>
+<h3>Day 5 — Legs &#x26; Core (Quads, Hamstrings, Glutes, Abs)</h3>
+<p><em>What you'll need: a pair of dumbbells and a mat.</em></p>
+<hr>
+<h4>Exercise 1: Dumbbell Goblet Squat</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 12–15 reps | Rest: 90 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Hold one dumbbell vertically at your chest, gripping the upper head with both hands — like you're holding a goblet.</li>
+<li>Stand with feet slightly wider than hip-width, toes pointed out at 20–30°.</li>
+<li>Sit back and down into a squat, keeping your chest upright and your knees tracking over your toes. Aim to reach parallel (thighs parallel to the floor) or deeper if your mobility allows.</li>
+<li>At the bottom, briefly pause — use your elbows to push your knees slightly outward.</li>
+<li>Drive through both heels to return to standing. Squeeze your glutes at the top.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view photo at the bottom of the goblet squat — thighs at or below parallel, chest upright, dumbbell at sternum, elbows inside the knees. Add knee-tracking arrows showing the ideal path (over the toes, not caving inward).</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 2: Romanian Deadlift (RDL)</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 10–12 reps | Rest: 90 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand with feet hip-width apart, holding a dumbbell in each hand in front of your thighs, palms facing you.</li>
+<li>With a slight bend in the knees (soft knee — not a full squat), hinge at the hips, pushing them back as you lower the dumbbells down your legs.</li>
+<li>Keep the dumbbells close to your body throughout — they should nearly graze your shins as they descend.</li>
+<li>Lower until you feel a strong stretch in your hamstrings (typically mid-shin level), then reverse the movement by driving your hips forward to return to standing.</li>
+<li>At the top, squeeze your glutes fully. Do not hyperextend your lower back at lockout.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view comparison showing the start position (upright, dumbbells at thigh) and the bottom position (torso hinged, dumbbells at mid-shin, spine neutral). Include a spine annotation — a straight line from head to tailbone — highlighting the critical neutral spine position throughout the hinge.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 3: Dumbbell Lunges</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 10 reps each leg | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Stand upright with a dumbbell in each hand, hanging at your sides.</li>
+<li>Take a large step forward with your right foot and lower your left knee toward the floor — stopping just before it touches.</li>
+<li>Your front (right) knee should be at roughly 90° and should not travel past your toes.</li>
+<li>Drive through your right heel to push yourself back to the starting position.</li>
+<li>Alternate legs, or complete all reps on one leg before switching. Keep your torso upright throughout — do not lean forward.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view image showing a correct forward lunge — front knee at 90° and tracking over the toes, back knee hovering above the floor, torso vertical. Include a red zone annotation marking what "front knee past toes" looks like to help the user identify and avoid the most common form breakdown.</p>
+</li>
+</ul>
+<hr>
+<h4>Exercise 4: Plank Hold</h4>
+<ul>
+<li>
+<p><strong>Sets &#x26; Reps/Time:</strong> 3 sets × 30–45 seconds | Rest: 60 seconds between sets</p>
+</li>
+<li>
+<p><strong>How to Do It:</strong></p>
+<ol>
+<li>Place your forearms on the floor with elbows directly beneath your shoulders. Clasp your hands or place forearms parallel.</li>
+<li>Extend both legs behind you, resting on your toes. Your body should form a straight line from head to heels.</li>
+<li>Brace your core as if you're about to receive a punch to the stomach. Squeeze your glutes. Push your elbows into the floor.</li>
+<li>Hold the position, breathing steadily. Do not let your hips sag (too low) or pike (too high).</li>
+<li>If 30 seconds becomes easy, progress by adding 5 seconds each week rather than switching to a harder variation.</li>
+</ol>
+</li>
+<li>
+<p><strong>[IMAGE PLACEHOLDER]:</strong> A side-view photo of a person in a forearm plank with perfect alignment — ear, shoulder, hip, knee, and ankle in one straight line, hips neither sagging nor raised. Use a solid line overlay connecting these five points to make the alignment standard visually clear.</p>
+</li>
+</ul>
+<hr>
+<h2>💡 Progression &#x26; Pro-Tips</h2>
+<h3>How to Progress</h3>
+<p>This program uses <strong>double progression</strong>: increase reps first, then increase weight. Follow this system:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Week</th><th>Focus</th></tr></thead><tbody><tr><td><strong>Week 1</strong></td><td>Learn every movement pattern. Use a weight where the last 2 reps feel challenging but your form remains perfect. Do not rush.</td></tr><tr><td><strong>Week 2</strong></td><td>Add 1–2 reps to each set where possible. If you hit the top of the rep range (e.g., 12 reps on an exercise with a 10–12 rep range), increase weight by 2–5% the following session.</td></tr><tr><td><strong>Week 3</strong></td><td>Increase weight by 5–10% on any exercises where you consistently hit the top of the rep range. Reduce reps back to the bottom of the range and build up again.</td></tr><tr><td><strong>Week 4</strong></td><td>Push every set. Aim to reach muscle fatigue within the prescribed rep range. Add an optional 4th session (a repeat of any one day) if recovery is strong.</td></tr></tbody></table>
+<hr>
+<h3>Coach's Notes from Dr. Sarah Okafor</h3>
+<p><strong>On choosing the right weight:</strong> The "right" weight for any set is the heaviest load with which you can maintain perfect form for every rep of that set — including the last one. If your form breaks on rep 9 of a 10-rep set, the weight is too heavy. Drop it 10% and build back up.</p>
+<p><strong>On the mind-muscle connection:</strong> Research on beginners shows that consciously focusing on the muscle being worked — rather than just moving the weight — increases muscle activation by up to 20–30%. On each rep, actively think about the target muscle contracting. For the chest press, think "squeeze the dumbbells together." For the row, think "lead with the elbow, not the hand."</p>
+<p><strong>On rest days:</strong> Rest days are not wasted days — they are growth days. Muscle protein synthesis (the process of building new muscle tissue) peaks 24–48 hours after a training session. If you train too often or sleep too little, you interrupt this process. Sleep 7–9 hours. Eat enough protein (target <strong>1.6–2.0 g per kg of bodyweight daily</strong>).</p>
+<p><strong>Common mistake to avoid:</strong> Using too much weight, too soon. The single biggest error beginners make is chasing the number on the dumbbell rather than the quality of the movement. Poor form means the wrong muscles are working and injury risk rises. Swallow your ego in Weeks 1 and 2 — your Week 4 self will thank you.</p>
+<hr>
+<p><em>This program was designed by Dr. Sarah Okafor, MD, MSc Sports Medicine. Always consult a qualified healthcare professional before beginning a new exercise program, especially if you have pre-existing injuries or health conditions.</em></p>1b:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}]
+1c:["$","$L21",null,{"items":[{"question":"What weight should I start with?","answer":"Choose a weight where the last 2 reps of each set feel challenging but form stays perfect. Start lighter than you think you need to — progressive overload means adding weight gradually week by week."},{"question":"Can I do this 4 days a week instead?","answer":"Beginners benefit most from 3 days with full rest days between sessions. The rest days are when muscle growth actually happens. Add a 4th day in weeks 3–4 if recovery feels easy."}]}]
 1d:["$","section",null,{"aria-label":"Article sources","style":{"marginTop":"2.5rem","paddingTop":"1.5rem","borderTop":"1px solid var(--border-default)"},"children":[["$","h3",null,{"style":{"fontSize":"0.8125rem","fontWeight":600,"color":"var(--text-muted)","letterSpacing":"0.06em","textTransform":"uppercase","marginBottom":12,"marginTop":0},"children":"Sources"}],["$","ol",null,{"style":{"paddingLeft":20,"display":"flex","flexDirection":"column","gap":6,"margin":0},"children":[["$","li","0",{"children":["$","a",null,{"href":"https://pubmed.ncbi.nlm.nih.gov/20847704/","target":"_blank","rel":"noopener noreferrer","style":{"fontSize":"0.875rem","color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"Schoenfeld BJ (2010). The Mechanisms of Muscle Hypertrophy. J Strength Cond Res."}]}]]}]]}]
 1e:["$","aside",null,{"role":"note","aria-label":"Medical Disclaimer","style":{"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0","padding":"16px 20px","marginTop":"2rem","display":"flex","gap":12},"children":[["$","div",null,{"style":{"flexShrink":0,"paddingTop":2},"children":["$","$L13",null,{"ref":"$undefined","iconNode":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"className":"lucide-triangle-alert","size":16,"style":{"color":"var(--callout-disclaimer-border)"}}]}],["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6,"margin":0},"children":[["$","strong",null,{"children":"Medical Disclaimer: "}],"The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen. ",["$","$L12",null,{"href":"/disclaimer","style":{"color":"var(--callout-disclaimer-border)","textDecoration":"underline"},"children":"Read our full disclaimer."}]]}]]}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-21:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+22:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
 8:null
-d:[["$","title","0",{"children":"4-Week Full Body Strength Program for Beginners"}],["$","meta","1",{"name":"description","content":"Progressive overload built for newcomers — three days per week, minimal equipment, proven results."}],["$","meta","2",{"property":"og:title","content":"4-Week Full Body Strength Program for Beginners"}],["$","meta","3",{"property":"og:description","content":"Progressive overload built for newcomers — three days per week, minimal equipment, proven results."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=640&h=360&fit=crop&auto=format"}],["$","meta","5",{"property":"og:image:alt","content":"Person performing strength training with dumbbells in a gym"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-02-20T00:00:00.000Z"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"4-Week Full Body Strength Program for Beginners"}],["$","meta","10",{"name":"twitter:description","content":"Progressive overload built for newcomers — three days per week, minimal equipment, proven results."}],["$","meta","11",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=640&h=360&fit=crop&auto=format"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L21","13",{}]]
+d:[["$","title","0",{"children":"4-Week Full Body Strength Program for Beginners"}],["$","meta","1",{"name":"description","content":"Progressive overload built for newcomers — three days per week, minimal equipment, proven results."}],["$","meta","2",{"property":"og:title","content":"4-Week Full Body Strength Program for Beginners"}],["$","meta","3",{"property":"og:description","content":"Progressive overload built for newcomers — three days per week, minimal equipment, proven results."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=640&h=360&fit=crop&auto=format"}],["$","meta","5",{"property":"og:image:alt","content":"Person performing strength training with dumbbells in a gym"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-02-20T00:00:00.000Z"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"4-Week Full Body Strength Program for Beginners"}],["$","meta","10",{"name":"twitter:description","content":"Progressive overload built for newcomers — three days per week, minimal equipment, proven results."}],["$","meta","11",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=640&h=360&fit=crop&auto=format"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L22","13",{}]]
