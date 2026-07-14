@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],""]
+3:I[5014,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"default"]
+4:I[5500,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"Image"]
+9:I[45638,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"FloatingToC"]
+d:I[63151,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0-ogdax7fbfue.js","/_next/static/chunks/0qwe7f-u1ib-7.js"],"ArticleCard"]
+e:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","header",null,{"style":{"backgroundColor":"var(--bg-surface)","borderBottom":"1px solid var(--border-default)","padding":"56px 24px 48px"},"children":["$","div",null,{"style":{"maxWidth":800,"margin":"0 auto"},"children":[["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","alignItems":"center","gap":8,"marginBottom":20,"fontSize":"0.875rem","color":"var(--text-muted)"},"children":[["$","$L2",null,{"href":"/","style":{"color":"var(--brand-primary)","textDecoration":"none"},"children":"Home"}],["$","span",null,{"aria-hidden":true,"children":"›"}],["$","$L2",null,{"href":"/nutrition","style":{"color":"var(--brand-primary)","textDecoration":"none","textTransform":"capitalize"},"children":"nutrition"}],["$","span",null,{"aria-hidden":true,"children":"›"}],["$","span",null,{"className":"line-clamp-2","style":{"color":"var(--text-muted)"},"children":"Keto Diet Meal Plan: 7 Days of Sample Meals"}]]}],["$","div",null,{"style":{"display":"flex","gap":8,"flexWrap":"wrap","marginBottom":16},"children":[["$","span",null,{"style":{"display":"inline-block","borderRadius":"var(--radius-sm)","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","fontSize":"0.75rem","padding":"4px 12px","lineHeight":1.4,"whiteSpace":"nowrap","--chip-bg-light":"#E4ECE0","--chip-bg-dark":"#2E3A2A","--chip-text-light":"#5B7553","--chip-text-dark":"var(--text-primary)"},"className":"pillar-chip","children":"Nutrition"}],["$","span",null,{"style":{"display":"inline-block","backgroundColor":"#FEF3D0","color":"#96680D","borderRadius":"var(--radius-sm)","fontSize":"0.6875rem","fontWeight":600,"letterSpacing":"0.06em","textTransform":"uppercase","padding":"2px 8px","lineHeight":1.4,"whiteSpace":"nowrap"},"children":"Intermediate"}]]}],["$","h1",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":800,"fontSize":"clamp(1.75rem, 4vw, 2.5rem)","lineHeight":1.2,"letterSpacing":"-0.02em","color":"var(--text-primary)","marginBottom":16},"children":"Keto Diet Meal Plan: 7 Days of Sample Meals"}],["$","p",null,{"style":{"fontSize":"1.1875rem","color":"var(--text-secondary)","lineHeight":1.65,"marginBottom":24},"children":"Get a complete 7-day keto diet meal plan with macros, snack ideas, meal prep tips, and the most common meal-planning mistakes to avoid."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"flexWrap":"wrap","paddingTop":20,"borderTop":"1px solid var(--border-default)"},"children":[["$","div",null,{"style":{"width":40,"height":40,"borderRadius":"var(--radius-full)","backgroundColor":"var(--brand-primary-subtle)","display":"flex","alignItems":"center","justifyContent":"center","flexShrink":0},"children":["$","$L3",null,{"iconNode":[["path",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2","key":"975kel"}],["circle",{"cx":"12","cy":"7","r":"4","key":"17ys0d"}]],"className":"lucide-user","size":18,"style":{"color":"var(--brand-primary)"}}]}],["$","div",null,{"children":[["$","div",null,{"style":{"fontSize":"0.9375rem","fontWeight":600,"color":"var(--text-primary)"},"children":"alex-chen"}],["$","div",null,{"style":{"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":["Reviewed by"," ",["$","a",null,{"href":"https://healthwatch.com/experts/sam-okonkwo","target":"_blank","rel":"noopener noreferrer","style":{"color":"var(--brand-primary)","textDecoration":"underline","textUnderlineOffset":2},"children":"sam-okonkwo"}],", MD, MPH"]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":16,"marginLeft":"auto","flexWrap":"wrap"},"children":[["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L3",null,{"iconNode":[["path",{"d":"M8 2v4","key":"1cmpym"}],["path",{"d":"M16 2v4","key":"4m81vk"}],["rect",{"width":"18","height":"18","x":"3","y":"4","rx":"2","key":"1hopcy"}],["path",{"d":"M3 10h18","key":"8toen8"}]],"className":"lucide-calendar","size":13}]," ","July 12, 2026"]}],["$","span",null,{"style":{"display":"flex","alignItems":"center","gap":6,"fontSize":"0.8125rem","color":"var(--text-muted)"},"children":[["$","$L3",null,{"iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6l4 2","key":"mmk7yg"}]],"className":"lucide-clock","size":13}],8," min read"]}]]}]]}]]}]}],["$","div",null,{"style":{"maxWidth":960,"margin":"0 auto","padding":"0 24px","paddingTop":40},"children":["$","div",null,{"style":{"position":"relative","aspectRatio":"16/7","borderRadius":"var(--radius-lg)","overflow":"hidden","boxShadow":"var(--shadow-md)"},"children":["$","$L4",null,{"src":"/images/nutrition/keto-diet-meal-plan-7-days-sample-meals-cover.png","alt":"Keto meal prep containers lined up in a refrigerator with proteins, vegetables, and fats portioned out","fill":true,"style":{"objectFit":"cover"},"sizes":"(max-width: 960px) 100vw, 960px","priority":true,"unoptimized":true}]}]}],"$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7oFuE_47z1AT6MRQNw2kN"}
+a:T1e91,<p>Meal planning is the difference between keto success and frustration. Without a clear plan, it's easy to reach for convenient foods that are secretly high in carbs, unknowingly break ketosis, and give up within the first two weeks. A well-designed 7-day keto meal plan removes the guesswork and sets you up for a smooth, effective start.</p>
+<h2>What Does a Keto Meal Plan Include?</h2>
+<p>A properly structured keto meal plan keeps daily <strong>net carbs under 20–30 grams</strong>, while distributing the remaining calories across fat (65–75%) and protein (20–30%). Every meal should be built around a quality protein source and healthy fat, with low-carb vegetables for fiber and micronutrients.</p>
+<p>A good keto meal plan also accounts for:</p>
+<ul>
+<li><strong>Electrolytes</strong>: Sodium, potassium, and magnesium are depleted as insulin drops. Salt food generously and consider a magnesium supplement.</li>
+<li><strong>Meal timing</strong>: Most keto followers do well with 3 meals per day or 2 meals plus 1 snack. Intermittent fasting pairs well with keto.</li>
+<li><strong>Variety</strong>: Rotating protein sources and vegetables prevents nutrient gaps and flavor fatigue.</li>
+</ul>
+<h2>How Many Carbs, Fat, and Protein Per Day?</h2>
+<p>For a person with a daily calorie target of <strong>1,800 calories</strong> on standard keto:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Macro</th><th>Percentage</th><th>Grams</th></tr></thead><tbody><tr><td>Fat</td><td>70%</td><td>140g</td></tr><tr><td>Protein</td><td>25%</td><td>113g</td></tr><tr><td>Net Carbs</td><td>5%</td><td>22g</td></tr></tbody></table>
+<p>Use a keto macro calculator (entering your height, weight, activity level, and goal) to personalize these numbers. <strong>Protein is critical</strong>: too little leads to muscle loss, too much can impair ketosis through gluconeogenesis.</p>
+<p>/images/nutrition/keto-diet-meal-plan-7-days-sample-meals-inline-1.png</p>
+<h2>Sample 7-Day Keto Meal Plan</h2>
+<p>All meals target approximately <strong>20–25g net carbs</strong> for the full day. Exact totals will vary by portion size.</p>
+<h3>Day 1</h3>
+<ul>
+<li><strong>Breakfast</strong>: 3 scrambled eggs cooked in butter with 2 strips of bacon, ½ avocado</li>
+<li><strong>Lunch</strong>: Tuna salad (canned tuna, mayo, celery, pickles) served in romaine lettuce cups</li>
+<li><strong>Dinner</strong>: Pan-seared salmon fillet with garlic butter, steamed broccoli with olive oil</li>
+<li><strong>Snack</strong>: 1 oz sharp cheddar, 10 macadamia nuts</li>
+</ul>
+<h3>Day 2</h3>
+<ul>
+<li><strong>Breakfast</strong>: Keto smoothie — heavy cream, 1 cup unsweetened almond milk, 1 scoop unflavored collagen, 1 tbsp MCT oil, handful of spinach</li>
+<li><strong>Lunch</strong>: Cobb salad — romaine, grilled chicken, hard-boiled egg, bacon, avocado, blue cheese, olive oil and vinegar</li>
+<li><strong>Dinner</strong>: Bunless grass-fed beef burgers with cheese, lettuce, tomato, and a side of sautéed zucchini</li>
+<li><strong>Snack</strong>: Celery sticks with almond butter</li>
+</ul>
+<h3>Day 3</h3>
+<ul>
+<li><strong>Breakfast</strong>: Veggie omelet (3 eggs, spinach, mushrooms, bell pepper) with 1 tbsp butter</li>
+<li><strong>Lunch</strong>: Chicken Caesar salad (no croutons) with full-fat Caesar dressing</li>
+<li><strong>Dinner</strong>: Pork belly with roasted bok choy and sesame oil</li>
+<li><strong>Snack</strong>: Hard-boiled egg, ¼ cup almonds</li>
+</ul>
+<h3>Day 4</h3>
+<ul>
+<li><strong>Breakfast</strong>: Full-fat Greek yogurt (plain, unsweetened) with 10 raspberries and crushed walnuts</li>
+<li><strong>Lunch</strong>: Egg salad stuffed in hollowed-out bell pepper halves</li>
+<li><strong>Dinner</strong>: Shrimp stir-fry with zucchini noodles, garlic, and olive oil</li>
+<li><strong>Snack</strong>: 1 oz cheese, 3–4 slices pepperoni</li>
+</ul>
+<h3>Day 5</h3>
+<ul>
+<li><strong>Breakfast</strong>: Keto "bread" toast (almond flour base) with cream cheese and 2 fried eggs</li>
+<li><strong>Lunch</strong>: BLT salad — romaine, bacon, tomato, avocado, mayo dressing</li>
+<li><strong>Dinner</strong>: Baked chicken thighs with garlic herb butter, roasted asparagus</li>
+<li><strong>Snack</strong>: Pork rinds with guacamole (2 tbsp)</li>
+</ul>
+<h3>Day 6</h3>
+<ul>
+<li><strong>Breakfast</strong>: Bacon and egg breakfast cups (baked in muffin tin with cheese)</li>
+<li><strong>Lunch</strong>: Greek salad with grilled chicken, feta, olives, cucumber, olive oil and lemon</li>
+<li><strong>Dinner</strong>: Lamb chops with roasted Brussels sprouts drizzled with bacon fat</li>
+<li><strong>Snack</strong>: Cucumber slices with cream cheese and smoked salmon</li>
+</ul>
+<h3>Day 7</h3>
+<ul>
+<li><strong>Breakfast</strong>: Keto pancakes (almond flour, eggs, cream cheese, vanilla extract) with sugar-free whipped cream and a few blueberries</li>
+<li><strong>Lunch</strong>: Turkey and avocado lettuce wraps with cream cheese and cucumber</li>
+<li><strong>Dinner</strong>: Slow-cooker beef short ribs with cauliflower mash and steamed green beans</li>
+<li><strong>Snack</strong>: Mixed nuts (macadamia, pecan, walnuts), 1 square of 85%+ dark chocolate</li>
+</ul>
+<h2>Keto-Friendly Snack Ideas</h2>
+<p>When hunger strikes between meals, these snacks stay under <strong>3–5g net carbs</strong>:</p>
+<ul>
+<li>Hard-boiled eggs</li>
+<li>Cheese cubes or string cheese</li>
+<li>Macadamia nuts or pecans</li>
+<li>Celery with almond or peanut butter</li>
+<li>Cucumber with cream cheese</li>
+<li>Pork rinds and guacamole</li>
+<li>Olives</li>
+<li>Deli turkey slices wrapped around cheese</li>
+<li>85%+ dark chocolate (1–2 squares)</li>
+</ul>
+<h2>How to Meal Prep for Keto</h2>
+<p>Successful keto meal prep follows a simple structure:</p>
+<ol>
+<li><strong>Batch cook proteins</strong> on Sunday: Grill or bake chicken thighs, hard-boil eggs, cook ground beef, and portion salmon fillets.</li>
+<li><strong>Pre-wash and chop vegetables</strong>: Store ready-to-use spinach, broccoli florets, sliced zucchini, and chopped bell peppers in containers.</li>
+<li><strong>Make fat bombs or snacks in advance</strong>: Prepare cheese bites, fat bomb energy balls (coconut oil, almond butter, cocoa), or portion out nuts into snack bags.</li>
+<li><strong>Prepare keto-friendly dressings</strong>: Caesar, ranch, and olive oil-based dressings stay fresh for 5–7 days in the fridge.</li>
+<li><strong>Use a macro tracker for the first 4 weeks</strong>: Apps like Cronometer or Carb Manager help you stay within keto ratios until you build intuition.</li>
+</ol>
+<h2>Common Meal-Planning Mistakes</h2>
+<ol>
+<li><strong>Not tracking "hidden" carbs</strong>: Many condiments, sauces, and packaged foods contain 2–5g of carbs per serving. These add up quickly. Check labels obsessively at first.</li>
+<li><strong>Eating too little protein</strong>: Aiming too low on protein (under 0.8g/lb body weight) leads to muscle breakdown, especially during weight loss.</li>
+<li><strong>Neglecting vegetables entirely</strong>: Some beginners cut all carbs including low-carb vegetables. This leads to fiber deficiency, constipation, and micronutrient gaps.</li>
+<li><strong>Not planning for social situations</strong>: Having a keto strategy for restaurants and social meals prevents derailments. Grilled proteins and salads work almost everywhere.</li>
+<li><strong>Relying on keto-labeled processed foods</strong>: Many keto snack bars, cookies, and products have high calorie counts and low nutrient density. Real, whole keto foods produce better results.</li>
+</ol>
+<p>A structured 7-day keto meal plan dramatically reduces the mental load of maintaining ketosis. Once you build familiarity with keto-friendly foods and your personal macro targets, meal planning becomes intuitive — and the benefits of keto become sustainable for the long term.</p>5:["$","div",null,{"className":"article-layout","style":{"maxWidth":1100,"margin":"0 auto","padding":"0 24px","display":"grid","gridTemplateColumns":"200px 1fr 200px","gap":40,"alignItems":"start","paddingTop":48,"paddingBottom":80},"children":[["$","div",null,{"className":"hide-on-mobile","children":["$","$L9",null,{"headings":[]}]}],["$","article",null,{"children":[false,false,false,false,false,["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$a"}}],"$undefined","$undefined","$Lb"]}],"$Lc"]}]
+6:["$","section",null,{"style":{"backgroundColor":"var(--bg-surface)","borderTop":"1px solid var(--border-default)","padding":"56px 24px 80px"},"children":["$","div",null,{"style":{"maxWidth":1100,"margin":"0 auto"},"children":[["$","h2",null,{"style":{"fontFamily":"var(--font-heading)","fontWeight":700,"fontSize":"1.5rem","color":"var(--text-primary)","marginBottom":32,"marginTop":0},"children":"Read Next"}],["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"repeat(auto-fill, minmax(280px, 1fr))","gap":24},"children":[["$","$Ld","anti-inflammatory-foods-guide",{"article":{"id":"anti-inflammatory-foods-guide","title":"The Ultimate Guide to Anti-Inflammatory Foods","description":"Chronic inflammation is at the root of many modern diseases. Discover the science-backed foods that help cool systemic inflammation.","pillar":"nutrition","difficulty":"Beginner","author":"Dr. Sarah Okafor","readTime":6,"type":"Article","coverImage":"https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=640&h=360&fit=crop&auto=format","coverImageAlt":"Assortment of fresh berries and nuts on a rustic table","href":"/nutrition/anti-inflammatory-foods-guide"}}],["$","$Ld","dash-diet-explained-benefits-and-meal-ideas",{"article":{"id":"dash-diet-explained-benefits-and-meal-ideas","title":"DASH Diet Explained: Benefits and Meal Ideas","description":"Understand the DASH diet's core benefits, what foods it includes, how it differs from other diets, and whether it's effective for weight loss.","pillar":"nutrition","difficulty":"Beginner","author":"alex-chen","readTime":7,"type":"Article","coverImage":"/images/nutrition/dash-diet-explained-benefits-and-meal-ideas-cover.png","coverImageAlt":"DASH diet plate with grilled chicken, broccoli, quinoa, and fresh vegetables","href":"/nutrition/dash-diet-explained-benefits-and-meal-ideas"}}],["$","$Ld","dash-diet-for-hypertension-complete-guide",{"article":{"id":"dash-diet-for-hypertension-complete-guide","title":"DASH Diet for Hypertension: Complete Guide","description":"Learn how the DASH diet lowers blood pressure with a 7-day meal plan, foods to eat and avoid, and expert tips for lasting results.","pillar":"nutrition","difficulty":"Beginner","author":"alex-chen","readTime":8,"type":"Article","coverImage":"/images/nutrition/dash-diet-for-hypertension-complete-guide-cover.png","coverImageAlt":"A DASH diet meal spread with colorful vegetables, whole grains, and lean proteins","href":"/nutrition/dash-diet-for-hypertension-complete-guide"}}]]}]]}]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0qwe7f-u1ib-7.js","async":true}]
+8:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+b:["$","aside",null,{"role":"note","aria-label":"Medical Disclaimer","style":{"backgroundColor":"var(--callout-disclaimer-bg)","borderLeft":"3px solid var(--callout-disclaimer-border)","borderRadius":"0 var(--radius-sm) var(--radius-sm) 0","padding":"16px 20px","marginTop":"2rem","display":"flex","gap":12},"children":[["$","div",null,{"style":{"flexShrink":0,"paddingTop":2},"children":["$","$L3",null,{"iconNode":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"className":"lucide-triangle-alert","size":16,"style":{"color":"var(--callout-disclaimer-border)"}}]}],["$","p",null,{"style":{"fontSize":"0.8125rem","color":"var(--callout-disclaimer-text)","lineHeight":1.6,"margin":0},"children":[["$","strong",null,{"children":"Medical Disclaimer: "}],"The information in this article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before making changes to your diet, exercise routine, or health regimen. ",["$","$L2",null,{"href":"/disclaimer","style":{"color":"var(--callout-disclaimer-border)","textDecoration":"underline"},"children":"Read our full disclaimer."}]]}]]}]
+c:["$","div",null,{"className":"hide-on-mobile"}]
+10:null
