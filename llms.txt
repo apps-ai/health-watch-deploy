@@ -1,0 +1,25 @@
+# Health Watch
+
+> Evidence-based health, nutrition, mental health, and fitness guidance.
+
+## Key Sections
+- [Nutrition & Diet](/nutrition)
+- [Mental Health & Recovery](/mental-health)
+- [Weight Loss & Body Composition](/weight-loss)
+- [Mobility, Flexibility & Yoga](/mobility)
+- [Outdoors & Adventure](/outdoors)
+- [General Wellness](/wellness)
+- [Vitamins & Supplements](/vitamins)
+- [Yoga Practice](/yoga)
+
+## Tools
+- [BMI Calculator](/tools/bmi)
+- [Macro Calculator](/tools/macros)
+- [Workout Timer](/tools/timer)
+- [1RM Calculator](/tools/1rm)
+- [Hydration Tracker](/tools/hydration)
+- [Fasting Timer](/tools/fasting)
+- [Workout Plan Builder](/tools/plan-builder)
+
+## Content Index
+- [Sitemap](/sitemap.xml)

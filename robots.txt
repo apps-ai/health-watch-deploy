@@ -1,0 +1,19 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://health-watch.com/sitemap.xml
